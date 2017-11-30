@@ -4,9 +4,9 @@ UI design proposal for the official wallet for the Monero cryptocurrency. This c
 
 
 ## Links
-[Monero GUI Github repo](https://github.com/monero-project/monero-gui)
-[Github issue for this proposal](https://github.com/monero-project/monero-gui/issues/949)
-[Funding proposal](https://forum.getmonero.org/6/ideas/89258/gui-redesign)
+* [Monero GUI Github repo](https://github.com/monero-project/monero-gui)
+* [Github issue for this proposal](https://github.com/monero-project/monero-gui/issues/949)
+* [Funding proposal](https://forum.getmonero.org/6/ideas/89258/gui-redesign)
 
 
 ## Prerequisites

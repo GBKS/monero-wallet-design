@@ -24,7 +24,7 @@ This repository is intended as a starting point. You're invited to join and cont
 
 ## Ideas for future iterations
 
-![Responsive layout](https://github.com/GBKS/monero-wallet-design/blob/master/screens/iterations/Responsive layout.png "Responsive layout")
+![Responsive layout](https://github.com/GBKS/monero-wallet-design/blob/master/screens/iterations/Responsive%40layout.png "Responsive layout")
 
 ## Prerequisites
 

@@ -11,9 +11,10 @@ This repository is intended as a starting point. You're invited to join and cont
 
 ## Example screens
 
-![Sending](https://github.com/GBKS/monero-wallet-design/blob/master/screens/desktop-dark/send%402x.png "Sending")
-![Receiving](https://github.com/GBKS/monero-wallet-design/blob/master/screens/desktop-dark/receive%402x.png "Receiving")
-![Transactions](https://github.com/GBKS/monero-wallet-design/blob/master/screens/desktop-dark/transactions%402x.png "Transactions")
+![Sending](https://github.com/GBKS/monero-wallet-design/blob/master/screens/desktop-dark/send.png "Sending")
+![Sending - light theme](https://github.com/GBKS/monero-wallet-design/blob/master/screens/desktop-light/send.png "Sending - light theme")
+![Receiving](https://github.com/GBKS/monero-wallet-design/blob/master/screens/desktop-dark/receive.png "Receiving")
+![Transactions](https://github.com/GBKS/monero-wallet-design/blob/master/screens/desktop-dark/transactions.png "Transactions")
 
 ## Design system examples
 
@@ -24,7 +25,8 @@ This repository is intended as a starting point. You're invited to join and cont
 
 ## Ideas for future iterations
 
-![Responsive layout](https://github.com/GBKS/monero-wallet-design/blob/master/screens/iterations/Responsive%20layout.png "Responsive layout")
+![Responsive layout](https://github.com/GBKS/monero-wallet-design/blob/master/screens/future/responsive%20layout.png "Responsive layout")
+![Transactions](https://github.com/GBKS/monero-wallet-design/blob/master/screens/future/transactions%20-%20ideas.png "Transactions")
 
 ## Prerequisites
 

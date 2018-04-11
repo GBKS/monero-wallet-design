@@ -27,7 +27,7 @@ This repository is intended as a starting point. You're invited to join and cont
 
 ![Responsive layout](https://github.com/GBKS/monero-wallet-design/blob/master/screens/future/responsive%20layout.png "Responsive layout")
 ![Transactions](https://github.com/GBKS/monero-wallet-design/blob/master/screens/future/transactions%20-%20ideas.png "Transactions")
-![Onboarding](https://github.com/GBKS/monero-wallet-design/blob/master/screens/future/onboarding.png "Onboarding")
+![Onboarding](https://github.com/GBKS/monero-wallet-design/raw/master/screens/desktop-dark/onboarding-overview.png "Onboarding")
 
 ## Prerequisites
 

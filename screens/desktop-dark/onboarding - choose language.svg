@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>onboarding - choose language</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="1.72254642e-14%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="14" cy="14" r="14"></circle>
+    </defs>
+    <g id="onboarding---choose-language" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="1024" height="768"></rect>
+        <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="1" y="50" width="1024" height="718"></rect>
+        <g id="Group-3" transform="translate(307.000000, 120.000000)" fill="#FFFFFF">
+            <text id="Welcome-to-Monero" font-family="SFUIDisplay-Regular, SF UI Display" font-size="48" font-weight="normal" letter-spacing="-0.375">
+                <tspan x="0" y="46">Welcome to Monero</tspan>
+            </text>
+            <text id="Please-choose-a-lang" font-family="SFUIDisplay-Semibold, SF UI Display" font-size="20" font-weight="500" letter-spacing="-0.15625">
+                <tspan x="55" y="126">Please choose a language</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(362.000000, 271.000000)">
+            <text id="English-(US)-Esperan" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="36" letter-spacing="-0.125" fill="#FFFFFF">
+                <tspan x="0" y="15">English (US)</tspan>
+                <tspan x="0" y="51">Esperanto</tspan>
+                <tspan x="0" y="87">Francais</tspan>
+                <tspan x="0" y="123">Bahasa Indonesia</tspan>
+                <tspan x="0" y="159">Italiano</tspan>
+                <tspan x="0" y="195">Japanese</tspan>
+                <tspan x="0" y="231">Dutch</tspan>
+                <tspan x="0" y="267">Portugese (BR)</tspan>
+                <tspan x="0" y="303">Chinese</tspan>
+            </text>
+            <path d="M0.5,36.5 L300.5,36.5" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,73 L300.5,73" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,109 L300.5,109" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,145 L300.5,145" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,181 L300.5,181" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,217 L300.5,217" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,253 L300.5,253" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,289 L300.5,289" id="Line" stroke="#404040" stroke-linecap="square"></path>
+        </g>
+        <g id="Nav-bar">
+            <rect id="Rectangle-2" fill="#000000" x="0" y="0" width="1024" height="50"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="0" y="0" width="1024" height="50"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="49" width="1024" height="1"></rect>
+            <g id="logo" stroke-width="1" transform="translate(449.000000, 11.000000)">
+                <text id="MONERO" font-family="CenturyGothic-Bold, Century Gothic" font-size="20.48" font-weight="bold" letter-spacing="-0.96" fill="#FFFFFF">
+                    <tspan x="40" y="21">MONER</tspan>
+                    <tspan x="108.51" y="21" letter-spacing="-0.64">O</tspan>
+                </text>
+                <g>
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Oval-3" fill="#FFFFFF" xlink:href="#path-2"></use>
+                    <g id="xmr" mask="url(#mask-3)" fill-rule="nonzero">
+                        <g transform="translate(-8.960000, -11.200000)" id="Shape">
+                            <path d="M33.8154687,0.24609375 C26.0081319,0.24609375 0.04703125,14.5929858 0.04703125,22.4010938 C0.0445681495,23.9187508 9.21520424,28.3656808 9.69522244,29.805412 L13.9226649,29.805412 L13.9226649,17.908016 L23.1127572,27.099016 L32.3028495,17.908016 L32.3028495,29.805412 L36.5302919,29.805412 C37.0087275,28.3652923 43.1284949,28.6165436 43.1276562,27.099016 C43.1276562,19.290908 30.9200941,11.2 23.1127572,11.2" fill="#FA6800"></path>
+                            <path d="M16.9582984,25.201428 L16.9582984,32.687144 L11.0222594,32.687144 C8.995,39.865 17.9598466,48.335 23.0591492,48.335 C28.1584518,48.335 41.584375,39.816875 35.096039,32.687144 L29.16,32.687144 L29.16,25.201428 L25.1650767,29.21436 L23.0605579,31.326876 L20.956039,29.21436 L16.9582984,25.201428 Z" fill="#4C4C4C"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="fullscreen" opacity="0.75" stroke-width="1" transform="translate(943.000000, 16.000000)" stroke="#FFFFFF">
+                <rect id="Rectangle-7" stroke-width="1.63636364" x="0.818181818" y="0.818181818" width="16.3636364" height="16.3636364" rx="1.63636364"></rect>
+                <rect id="Rectangle-7" stroke-width="1.63636364" fill="#FFFFFF" x="0.818181818" y="0.818181818" width="16.3636364" height="3.27272727" rx="1.63636364"></rect>
+            </g>
+            <rect id="minimize" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" opacity="0.75" x="899" y="31" width="16" height="2" rx="1"></rect>
+            <g id="close" opacity="0.75" stroke-width="1" transform="translate(988.000000, 18.000000)" stroke="#FFFFFF" stroke-linecap="round">
+                <path d="M0,0 L14,14" id="Shape" stroke-width="1.85022026"></path>
+                <path d="M14,0 L0,14" id="Shape" stroke-width="1.85022026"></path>
+            </g>
+            <g id="sidebar" opacity="0.75" stroke-width="1" transform="translate(16.000000, 16.000000)" stroke="#FFFFFF">
+                <rect id="Rectangle-7" stroke-width="1.63636364" x="0.818181818" y="0.818181818" width="16.3636364" height="16.3636364" rx="1.63636364"></rect>
+                <path d="M6.18181818,17.1818182 L6.18181818,0.818181818 L1.63999999,0.818181818 C1.18612234,0.818181818 0.818181818,1.18612234 0.818181818,1.63999999 L0.818181818,16.36 C0.818181818,16.8138777 1.18612234,17.1818182 1.63999999,17.1818182 L6.18181818,17.1818182 Z" id="Rectangle-7" stroke-width="1.63636364" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

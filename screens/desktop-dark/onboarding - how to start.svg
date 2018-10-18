@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>onboarding - how to start</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="1.72254642e-14%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="78.3364106%" y1="87.6429002%" x2="11.788737%" y2="-2.33424933%" id="linearGradient-2">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="25" y="55" width="100" height="40" rx="5"></rect>
+        <linearGradient x1="17.3496094%" y1="100%" x2="54.8417969%" y2="12.5878906%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="18.9089753%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M17.2236328,0.415039062 L95.6640625,80.7148437 C87.7460937,90.1588542 82.7584635,94.8808594 80.7011719,94.8808594 C78.6438802,94.8808594 52.0677083,69.3365885 0.97265625,18.2480469 L17.2236328,0.415039062 Z" id="path-7"></path>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="10" y="4" width="150" height="32" rx="2.7"></rect>
+        <filter x="-16.7%" y="-62.5%" width="133.3%" height="256.2%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-12">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-13" x="0" y="0" width="170" height="36" rx="3"></rect>
+        <rect id="path-14" x="10" y="4" width="150" height="32" rx="2.7"></rect>
+        <filter x="-16.7%" y="-62.5%" width="133.3%" height="256.2%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-16" cx="14" cy="14" r="14"></circle>
+    </defs>
+    <g id="onboarding---how-to-start" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="1024" height="768"></rect>
+        <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="1" y="50" width="1024" height="718"></rect>
+        <text id="Set-up-your-wallet" font-family="SFUIDisplay-Regular, SF UI Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
+            <tspan x="362" y="150">Set up your wallet</tspan>
+        </text>
+        <g id="Option" transform="translate(42.000000, 218.000000)">
+            <rect id="Rectangle-3" fill-opacity="0" fill="#000000" x="0" y="30" width="220" height="210"></rect>
+            <text id="Create-a-new-wallet" font-family="SFUIDisplay-Regular, SF UI Display" font-size="18" font-weight="normal" line-spacing="24" letter-spacing="-0.140625" fill="#FFFFFF">
+                <tspan x="35.6928711" y="191">Create a new wallet</tspan>
+            </text>
+            <g id="Group" transform="translate(36.000000, 0.000000)">
+                <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="2" opacity="0.200000003" x="1" y="1" width="148" height="148" rx="25"></rect>
+                <g id="create-wallet">
+                    <g id="Group">
+                        <rect id="Rectangle-4" fill-opacity="0" fill="#000000" opacity="0.200000003" x="0" y="0" width="150" height="150"></rect>
+                        <rect id="Rectangle-8" stroke="#54EEFA" stroke-width="3.40298507" x="55" y="37" width="57" height="57" rx="5"></rect>
+                        <rect id="Rectangle-8" fill="#000000" x="37" y="45" width="67" height="8"></rect>
+                        <rect id="Rectangle-8" fill="#000000" x="96" y="72" width="8" height="50"></rect>
+                        <rect id="Rectangle-8" fill="#30BCED" x="36" y="53" width="60" height="60" rx="5"></rect>
+                        <path d="M66,53 L91,53 C93.7614237,53 96,55.2385763 96,58 L96,108 C96,110.761424 93.7614237,113 91,113 L66,113 L66,53 Z" id="Rectangle-8" fill="url(#linearGradient-2)" style="mix-blend-mode: overlay;" opacity="0.200000003"></path>
+                        <path d="M68,81 L79,81 C80.1045695,81 81,81.8954305 81,83 C81,84.1045695 80.1045695,85 79,85 L68,85 L68,96 C68,97.1045695 67.1045695,98 66,98 C64.8954305,98 64,97.1045695 64,96 L64,85 L53,85 C51.8954305,85 51,84.1045695 51,83 C51,81.8954305 51.8954305,81 53,81 L64,81 L64,70 C64,68.8954305 64.8954305,68 66,68 C67.1045695,68 68,68.8954305 68,70 L68,81 Z" id="Rectangle-4" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Option" transform="translate(282.000000, 218.000000)">
+            <rect id="Rectangle-3" fill-opacity="0" fill="#000000" x="0" y="30" width="220" height="210"></rect>
+            <text id="Restore-wallet-From" font-family="SFUIDisplay-Regular, SF UI Display" font-size="18" font-weight="normal" line-spacing="24" letter-spacing="-0.140625" fill="#FFFFFF">
+                <tspan x="15.4780273" y="191">Restore wallet From keys </tspan>
+                <tspan x="39.0195312" y="215">or mnemonic seed</tspan>
+            </text>
+            <g id="Group" transform="translate(36.000000, 0.000000)">
+                <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="2" opacity="0.200000003" x="1" y="1" width="148" height="148" rx="25"></rect>
+                <g id="restore-wallet">
+                    <g id="Group">
+                        <rect id="Rectangle-4" fill-opacity="0" fill="#000000" opacity="0.200000003" x="0" y="0" width="150" height="150"></rect>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Rectangle-9" fill="#30BCED" xlink:href="#path-3"></use>
+                        <path d="M25,75 L125,75 L125,90 C125,92.7614237 122.761424,95 120,95 L30,95 C27.2385763,95 25,92.7614237 25,90 L25,75 Z" id="Rectangle-9" fill="url(#linearGradient-5)" style="mix-blend-mode: overlay;" opacity="0.200000003" mask="url(#mask-4)"></path>
+                        <circle id="Oval-6" fill="#53EEFA" mask="url(#mask-4)" cx="91" cy="75" r="8"></circle>
+                        <circle id="Oval-6" fill="#53EEFA" mask="url(#mask-4)" cx="68" cy="75" r="8"></circle>
+                        <circle id="Oval-6" fill="#53EEFA" mask="url(#mask-4)" cx="45" cy="75" r="8"></circle>
+                        <rect id="Rectangle-9" fill="#FFFFFF" mask="url(#mask-4)" x="109" y="63" width="4" height="24" rx="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Option" transform="translate(522.000000, 218.000000)">
+            <rect id="Rectangle-3" fill-opacity="0" fill="#000000" x="0" y="30" width="220" height="210"></rect>
+            <text id="Open-an-existing-wal" font-family="SFUIDisplay-Regular, SF UI Display" font-size="18" font-weight="normal" line-spacing="24" letter-spacing="-0.140625" fill="#FFFFFF">
+                <tspan x="21.7490234" y="191">Open an existing wallet </tspan>
+                <tspan x="28.6923828" y="215">from a local wallet file</tspan>
+            </text>
+            <g id="Group" transform="translate(36.000000, 0.000000)">
+                <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="148" height="148" rx="25"></rect>
+                <g id="restore-wallet-from-file">
+                    <g id="Group">
+                        <rect id="Rectangle-4" fill-opacity="0" fill="#000000" opacity="0.200000003" x="0" y="0" width="150" height="150"></rect>
+                        <g transform="translate(56.000000, 32.000000)">
+                            <rect id="Rectangle" fill="#FFFFFF" x="5.42857143" y="0" width="27.1428571" height="46.3636364"></rect>
+                            <rect id="Rectangle" fill="#54EEFA" x="8.82142857" y="9.54545455" width="6.78571429" height="6.81818182"></rect>
+                            <rect id="Rectangle" fill="#54EEFA" x="23.0714286" y="9.54545455" width="6.78571429" height="6.81818182"></rect>
+                            <rect id="Rectangle-3" fill="#54EEFA" x="2.71428571" y="28.6363636" width="32.5714286" height="17.7272727"></rect>
+                            <path d="M0,31.3636364 L38,31.3636364 L38,83.1818182 C38,86.947396 34.947396,90 31.1818182,90 L6.81818182,90 C3.05260398,90 3.12568554e-15,86.947396 2.66453526e-15,83.1818182 L0,31.3636364 Z" id="Rectangle-2" fill="#30BCED"></path>
+                            <path d="M19,31.3636364 L38,31.3636364 L38,83.1818182 C38,86.947396 34.947396,90 31.1818182,90 L25.8181818,90 C22.052604,90 19,86.947396 19,83.1818182 L19,31.3636364 Z" id="Rectangle-2" fill="url(#linearGradient-6)" style="mix-blend-mode: overlay;" opacity="0.200000003"></path>
+                            <ellipse id="Oval" fill="#54EEFA" cx="19" cy="79.0909091" rx="4.07142857" ry="4.09090909"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Option" transform="translate(762.000000, 218.000000)">
+            <rect id="Rectangle-3" fill-opacity="0" fill="#000000" x="0" y="30" width="220" height="210"></rect>
+            <text id="Create-a-new-wallet" font-family="SFUIDisplay-Regular, SF UI Display" font-size="18" font-weight="normal" line-spacing="24" letter-spacing="-0.140625" fill="#FFFFFF">
+                <tspan x="16.0800781" y="191">Create a new wallet from </tspan>
+                <tspan x="47.0922852" y="215">hardware device</tspan>
+            </text>
+            <g id="Group" transform="translate(36.000000, 0.000000)">
+                <path d="M32.048565,1 C22.0393219,1 17.7264031,1.83286305 13.2610276,4.220972 C9.36122196,6.30661085 6.30661085,9.36122196 4.220972,13.2610276 C1.83286305,17.7264031 1,22.0393219 1,32.048565 L1,117.951435 C1,127.960678 1.83286305,132.273597 4.220972,136.738972 C6.30661085,140.638778 9.36122196,143.693389 13.2610276,145.779028 C17.7264031,148.167137 22.0393219,149 32.048565,149 L117.951435,149 C127.960678,149 132.273597,148.167137 136.738972,145.779028 C140.638778,143.693389 143.693389,140.638778 145.779028,136.738972 C148.167137,132.273597 149,127.960678 149,117.951435 L149,32.048565 C149,22.0393219 148.167137,17.7264031 145.779028,13.2610276 C143.693389,9.36122196 140.638778,6.30661085 136.738972,4.220972 C132.273597,1.83286305 127.960678,1 117.951435,1 L32.048565,1 Z" id="Rectangle-4" stroke="#FFFFFF" stroke-width="2" opacity="0.200000003"></path>
+                <g id="restore-wallet-from-hardware">
+                    <g id="Group">
+                        <polygon id="Rectangle-4" fill-opacity="0" fill="#000000" opacity="0.200000003" points="0 0 150 0 150 150 0 150"></polygon>
+                        <g id="Group-5" transform="translate(14.000000, 39.000000)">
+                            <path d="M18.3140017,4 L102.489644,4 C104.319916,4 105.803645,5.48372908 105.803645,7.31400166 L105.803645,38.8866904 C105.803645,40.716963 104.319916,42.200692 102.489644,42.200692 L18.3140017,42.200692 C16.4837291,42.200692 15,40.716963 15,38.8866904 L15,7.31400166 C15,5.48372908 16.4837291,4 18.3140017,4 Z" id="Rectangle-6" fill="#30BCED"></path>
+                            <path d="M18.3140017,24 L102.489644,24 C104.319916,24 105.803645,25.4837291 105.803645,27.3140017 L105.803645,39.7859983 C105.803645,41.6162709 104.319916,43.1 102.489644,43.1 L18.3140017,43.1 C16.4837291,43.1 15,41.6162709 15,39.7859983 L15,27.3140017 C15,25.4837291 16.4837291,24 18.3140017,24 Z" id="Rectangle-6" fill="url(#linearGradient-5)" style="mix-blend-mode: overlay;" opacity="0.200000003"></path>
+                            <path d="M63.5434963,16.1245675 L88.0671085,16.1245675 C89.8973811,16.1245675 91.3811102,17.6082966 91.3811102,19.4385691 L91.3811102,27.7586627 C91.3811102,29.5889353 89.8973811,31.0726644 88.0671085,31.0726644 L63.5434963,31.0726644 C61.7132237,31.0726644 60.2294946,29.5889353 60.2294946,27.7586627 L60.2294946,19.4385691 C60.2294946,17.6082966 61.7132237,16.1245675 63.5434963,16.1245675 Z" id="Rectangle-6" fill="#53EEFA"></path>
+                            <path d="M21.5550953,65.5883673 C13.6401579,64.7584213 7.47058824,58.0494929 7.47058824,49.8961938 C7.47058824,41.7428946 13.6401579,35.0339662 21.5550953,34.2040203 L21.5550953,34.1176471 L88.3352113,34.1176471 C90.1654838,34.1176471 91.6492129,35.6013761 91.6492129,37.4316487 L91.6492129,62.3607388 C91.6492129,64.1910114 90.1654838,65.6747405 88.3352113,65.6747405 L21.5550953,65.6747405 L21.5550953,65.5883673 Z" id="Rectangle-7" fill="#FFFFFF" transform="translate(61.323115, 49.896194) rotate(45.000000) translate(-61.323115, -49.896194) "></path>
+                            <g id="Group-7" transform="translate(0.000000, 5.000000)">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <g id="Path-2"></g>
+                                <path d="M21.5550953,60.5883673 C13.6401579,59.7584213 7.47058824,53.0494929 7.47058824,44.8961938 C7.47058824,36.7428946 13.6401579,30.0339662 21.5550953,29.2040203 L21.5550953,29.1176471 L88.3352113,29.1176471 C90.1654838,29.1176471 91.6492129,30.6013761 91.6492129,32.4316487 L91.6492129,57.3607388 C91.6492129,59.1910114 90.1654838,60.6747405 88.3352113,60.6747405 L21.5550953,60.6747405 L21.5550953,60.5883673 Z" id="Rectangle-7" fill="url(#linearGradient-9)" opacity="0.03" mask="url(#mask-8)" transform="translate(61.323115, 44.896194) rotate(45.000000) translate(-61.323115, -44.896194) "></path>
+                            </g>
+                            <ellipse id="Oval-3" fill="#59C8FA" cx="34.5459818" cy="23.5986159" rx="9.11350456" ry="9.1349481"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Options" transform="translate(262.000000, 552.000000)">
+            <g id="Button---send" transform="translate(330.000000, 0.000000)">
+                <g id="Rectangle-4" opacity="0.149999991">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                    <use fill-opacity="0" fill="#FA6800" fill-rule="evenodd" xlink:href="#path-10"></use>
+                </g>
+                <g id="Rectangle-4">
+                    <use fill="#FA6800" xlink:href="#path-13"></use>
+                    <use fill-opacity="0.01" fill="url(#linearGradient-12)" style="mix-blend-mode: hard-light;" xlink:href="#path-13"></use>
+                </g>
+                <text id="Next" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="68.0898438" y="24">Next</tspan>
+                </text>
+            </g>
+            <g id="Button---send">
+                <g id="Rectangle-4" opacity="0.149999991">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                    <use fill-opacity="0" fill="#FA6800" fill-rule="evenodd" xlink:href="#path-14"></use>
+                </g>
+                <rect id="Rectangle-4" fill="#808080" x="0" y="0" width="170" height="36" rx="3"></rect>
+                <g id="Group" transform="translate(216.000000, 14.000000)" fill="#FFFFFF">
+                    <circle id="Oval" opacity="0.200000003" cx="4" cy="4" r="4"></circle>
+                    <circle id="Oval" opacity="0.200000003" cx="24" cy="4" r="4"></circle>
+                    <circle id="Oval" cx="44" cy="4" r="4"></circle>
+                    <circle id="Oval" opacity="0.200000003" cx="64" cy="4" r="4"></circle>
+                </g>
+                <text id="Previous" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="53.7929688" y="24">Previous</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Nav-bar">
+            <rect id="Rectangle-2" fill="#000000" x="0" y="0" width="1024" height="50"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="0" y="0" width="1024" height="50"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="49" width="1024" height="1"></rect>
+            <g id="logo" stroke-width="1" transform="translate(449.000000, 11.000000)">
+                <text id="MONERO" font-family="CenturyGothic-Bold, Century Gothic" font-size="20.48" font-weight="bold" letter-spacing="-0.96" fill="#FFFFFF">
+                    <tspan x="40" y="21">MONER</tspan>
+                    <tspan x="108.51" y="21" letter-spacing="-0.64">O</tspan>
+                </text>
+                <g>
+                    <mask id="mask-17" fill="white">
+                        <use xlink:href="#path-16"></use>
+                    </mask>
+                    <use id="Oval-3" fill="#FFFFFF" xlink:href="#path-16"></use>
+                    <g id="xmr" mask="url(#mask-17)" fill-rule="nonzero">
+                        <g transform="translate(-8.960000, -11.200000)" id="Shape">
+                            <path d="M33.8154687,0.24609375 C26.0081319,0.24609375 0.04703125,14.5929858 0.04703125,22.4010938 C0.0445681495,23.9187508 9.21520424,28.3656808 9.69522244,29.805412 L13.9226649,29.805412 L13.9226649,17.908016 L23.1127572,27.099016 L32.3028495,17.908016 L32.3028495,29.805412 L36.5302919,29.805412 C37.0087275,28.3652923 43.1284949,28.6165436 43.1276562,27.099016 C43.1276562,19.290908 30.9200941,11.2 23.1127572,11.2" fill="#FA6800"></path>
+                            <path d="M16.9582984,25.201428 L16.9582984,32.687144 L11.0222594,32.687144 C8.995,39.865 17.9598466,48.335 23.0591492,48.335 C28.1584518,48.335 41.584375,39.816875 35.096039,32.687144 L29.16,32.687144 L29.16,25.201428 L25.1650767,29.21436 L23.0605579,31.326876 L20.956039,29.21436 L16.9582984,25.201428 Z" fill="#4C4C4C"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="fullscreen" opacity="0.75" stroke-width="1" transform="translate(943.000000, 16.000000)" stroke="#FFFFFF">
+                <rect id="Rectangle-7" stroke-width="1.63636364" x="0.818181818" y="0.818181818" width="16.3636364" height="16.3636364" rx="1.63636364"></rect>
+                <rect id="Rectangle-7" stroke-width="1.63636364" fill="#FFFFFF" x="0.818181818" y="0.818181818" width="16.3636364" height="3.27272727" rx="1.63636364"></rect>
+            </g>
+            <rect id="minimize" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" opacity="0.75" x="899" y="31" width="16" height="2" rx="1"></rect>
+            <g id="close" opacity="0.75" stroke-width="1" transform="translate(988.000000, 18.000000)" stroke="#FFFFFF" stroke-linecap="round">
+                <path d="M0,0 L14,14" id="Shape" stroke-width="1.85022026"></path>
+                <path d="M14,0 L0,14" id="Shape" stroke-width="1.85022026"></path>
+            </g>
+            <g id="sidebar" opacity="0.75" stroke-width="1" transform="translate(16.000000, 16.000000)" stroke="#FFFFFF">
+                <rect id="Rectangle-7" stroke-width="1.63636364" x="0.818181818" y="0.818181818" width="16.3636364" height="16.3636364" rx="1.63636364"></rect>
+                <path d="M6.18181818,17.1818182 L6.18181818,0.818181818 L1.63999999,0.818181818 C1.18612234,0.818181818 0.818181818,1.18612234 0.818181818,1.63999999 L0.818181818,16.36 C0.818181818,16.8138777 1.18612234,17.1818182 1.63999999,17.1818182 L6.18181818,17.1818182 Z" id="Rectangle-7" stroke-width="1.63636364" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

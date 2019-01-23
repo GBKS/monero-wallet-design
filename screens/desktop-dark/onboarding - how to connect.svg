@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>onboarding - how to connect</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -63,15 +63,15 @@
         <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="1" y="50" width="1024" height="718"></rect>
         <g id="Option" transform="translate(262.000000, 175.000000)">
             <rect id="Rectangle-3" fill-opacity="0" fill="#000000" x="0" y="0" width="500" height="96"></rect>
-            <g transform="translate(0.000000, 11.000000)" id="Group">
-                <g>
-                    <rect id="Rectangle-4" fill-opacity="0" fill="#000000" opacity="0.200000003" x="0" y="0" width="75" height="75" rx="12.5"></rect>
+            <g id="local-node" transform="translate(0.000000, 11.000000)">
+                <g id="Group">
+                    <rect id="Rectangle-4" fill-opacity="0" fill="#000000" opacity="0.200000003" x="0" y="0" width="75" height="75"></rect>
                     <g id="Group-4" transform="translate(25.000000, 14.000000)">
                         <g id="server" transform="translate(0.000000, 13.500000)">
                             <path d="M1.5625,1.56 L23.4375,1.56 C23.4820313,1.56 23.5210938,1.55844 23.5648437,1.56 L22.96875,0.85878 C22.5773438,0.33696 21.871875,0 21.171875,0 L3.90625,0 C2.9859375,0 2.3921875,0.48672 2.02578125,0.85254 C2.00625,0.87204 1.9875,0.89232 1.9703125,0.91416 L1.43828125,1.56 C1.48046875,1.55844 1.51953125,1.56 1.5625,1.56 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
-                            <path d="M23.4375,4 L1.5625,4 C0.65703125,4 0,4.56066667 0,5.33333333 L0,32.6666667 C0,33.4393333 0.65703125,34 1.5625,34 L23.4375,34 C24.3429688,34 25,33.4393333 25,32.6666667 L25,5.33333333 C25,4.56066667 24.3429688,4 23.4375,4 Z" id="Shape" fill="#30BCED" fill-rule="nonzero"></path>
+                            <path d="M23.4375,4 L1.5625,4 C0.65703125,4 0,4.56066667 0,5.33333333 L0,32.6666667 C0,33.4393333 0.65703125,34 1.5625,34 L23.4375,34 C24.3429688,34 25,33.4393333 25,32.6666667 L25,5.33333333 C25,4.56066667 24.3429688,4 23.4375,4 Z" id="Shape" fill="#FA6800" fill-rule="nonzero"></path>
                             <path d="M24.21875,4 L13.28125,4 C12.8285156,4 12.5,4.56066667 12.5,5.33333333 L12.5,32.6666667 C12.5,33.4393333 12.8285156,34 13.28125,34 L24.21875,34 C24.6714844,34 25,33.4393333 25,32.6666667 L25,5.33333333 C25,4.56066667 24.6714844,4 24.21875,4 Z" id="Shape" fill="url(#linearGradient-2)" style="mix-blend-mode: overlay;" opacity="0.200000003"></path>
-                            <path d="M12.5,30.54 C11.640625,30.54 10.9375,29.838 10.9375,28.98 C10.9375,28.122 11.640625,27.42 12.5,27.42 C13.359375,27.42 14.0625,28.122 14.0625,28.98 C14.0625,29.838 13.359375,30.54 12.5,30.54 Z M12.5,25.08 C11.640625,25.08 10.9375,24.378 10.9375,23.52 C10.9375,22.662 11.640625,21.96 12.5,21.96 C13.359375,21.96 14.0625,22.662 14.0625,23.52 C14.0625,24.378 13.359375,25.08 12.5,25.08 Z M20.3125,18.6771429 C20.3125,19.0628571 20,19.32 19.53125,19.32 L5.46875,19.32 C5,19.32 4.6875,19.0628571 4.6875,18.6771429 L4.6875,15.4628571 C4.6875,15.0771429 5,14.82 5.46875,14.82 L19.53125,14.82 C20,14.82 20.3125,15.0771429 20.3125,15.4628571 L20.3125,18.6771429 Z M20.3125,11.6571429 C20.3125,12.0428571 20,12.3 19.53125,12.3 L5.46875,12.3 C5,12.3 4.6875,12.0428571 4.6875,11.6571429 L4.6875,8.44285714 C4.6875,8.05714286 5,7.8 5.46875,7.8 L19.53125,7.8 C20,7.8 20.3125,8.05714286 20.3125,8.44285714 L20.3125,11.6571429 Z" id="Shape" fill="#53EEFA" fill-rule="nonzero"></path>
+                            <path d="M12.5,30.54 C11.640625,30.54 10.9375,29.838 10.9375,28.98 C10.9375,28.122 11.640625,27.42 12.5,27.42 C13.359375,27.42 14.0625,28.122 14.0625,28.98 C14.0625,29.838 13.359375,30.54 12.5,30.54 Z M12.5,25.08 C11.640625,25.08 10.9375,24.378 10.9375,23.52 C10.9375,22.662 11.640625,21.96 12.5,21.96 C13.359375,21.96 14.0625,22.662 14.0625,23.52 C14.0625,24.378 13.359375,25.08 12.5,25.08 Z M20.3125,18.6771429 C20.3125,19.0628571 20,19.32 19.53125,19.32 L5.46875,19.32 C5,19.32 4.6875,19.0628571 4.6875,18.6771429 L4.6875,15.4628571 C4.6875,15.0771429 5,14.82 5.46875,14.82 L19.53125,14.82 C20,14.82 20.3125,15.0771429 20.3125,15.4628571 L20.3125,18.6771429 Z M20.3125,11.6571429 C20.3125,12.0428571 20,12.3 19.53125,12.3 L5.46875,12.3 C5,12.3 4.6875,12.0428571 4.6875,11.6571429 L4.6875,8.44285714 C4.6875,8.05714286 5,7.8 5.46875,7.8 L19.53125,7.8 C20,7.8 20.3125,8.05714286 20.3125,8.44285714 L20.3125,11.6571429 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.5"></path>
                         </g>
                         <g id="Group-6" transform="translate(4.000000, 0.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="1.5">
                             <g id="arrow" transform="translate(3.250000, 5.000000) scale(1, -1) translate(-3.250000, -5.000000) ">
@@ -86,12 +86,12 @@
                     </g>
                 </g>
             </g>
-            <text id="Local-node" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" letter-spacing="-0.171875" fill="#FFFFFF">
+            <text id="Local-node" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" letter-spacing="-0.171875" fill="#FFFFFF">
                 <tspan x="85" y="37">Local node</tspan>
             </text>
-            <text id="The-blockchain-is-do" font-family="SFUIDisplay-Regular, SF UI Display" font-size="14" font-weight="normal" letter-spacing="-0.109375" fill="#C0C0C0">
-                <tspan x="85" y="58">The blockchain is downloaded to your computer. Provides higher </tspan>
-                <tspan x="85" y="74">security and requires more local storage</tspan>
+            <text id="The-blockchain-is-do" font-family="SFProDisplay-Regular, SF Pro Display" font-size="14" font-weight="normal" letter-spacing="-0.109375" fill="#C0C0C0">
+                <tspan x="85" y="59">The blockchain is downloaded to your computer. Provides higher </tspan>
+                <tspan x="85" y="75">security and requires more local storage</tspan>
             </text>
         </g>
         <g id="Option" transform="translate(262.000000, 271.000000)">
@@ -99,11 +99,11 @@
                 <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                 <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
             </g>
-            <g transform="translate(0.000000, 11.000000)" id="Group">
-                <g>
-                    <rect id="Rectangle-4" fill-opacity="0" fill="#000000" opacity="0.200000003" x="0" y="0" width="75" height="75" rx="12.5"></rect>
+            <g id="remote-node" transform="translate(0.000000, 11.000000)">
+                <g id="Group">
+                    <rect id="Rectangle-4" fill-opacity="0" fill="#000000" opacity="0.200000003" x="0" y="0" width="75" height="75"></rect>
                     <g id="Group-3" transform="translate(15.000000, 16.000000)">
-                        <path d="M14.2961543,7.86545889 C15.5247572,3.3346685 19.6915988,0 24.6428571,0 C28.8512086,0 32.4928777,2.40904819 34.2453542,5.91401388 C34.6101474,5.87243263 34.9811318,5.85106383 35.3571429,5.85106383 C40.6827458,5.85106383 45,10.1376992 45,15.4255319 C45,20.7133646 40.6827458,25 35.3571429,25 L6.96428571,25 C3.11801692,25 0,21.9040967 0,18.0851064 C0,14.2661161 3.11801692,11.1702128 6.96428571,11.1702128 C7.1829614,11.1702128 7.3992831,11.1802199 7.61281164,11.1997981 C8.08894679,9.05305065 10.0162689,7.44680851 12.3214286,7.44680851 C13.0250484,7.44680851 13.6934652,7.59646139 14.2961543,7.86545889 Z" id="Oval-2" fill="#30BCED"></path>
+                        <path d="M14.2961543,7.86545889 C15.5247572,3.3346685 19.6915988,0 24.6428571,0 C28.8512086,0 32.4928777,2.40904819 34.2453542,5.91401388 C34.6101474,5.87243263 34.9811318,5.85106383 35.3571429,5.85106383 C40.6827458,5.85106383 45,10.1376992 45,15.4255319 C45,20.7133646 40.6827458,25 35.3571429,25 L6.96428571,25 C3.11801692,25 0,21.9040967 0,18.0851064 C0,14.2661161 3.11801692,11.1702128 6.96428571,11.1702128 C7.1829614,11.1702128 7.3992831,11.1802199 7.61281164,11.1997981 C8.08894679,9.05305065 10.0162689,7.44680851 12.3214286,7.44680851 C13.0250484,7.44680851 13.6934652,7.59646139 14.2961543,7.86545889 Z" id="Oval-2" fill="#FA6800"></path>
                         <ellipse id="Oval-2" fill="url(#linearGradient-5)" style="mix-blend-mode: overlay;" opacity="0.200000003" cx="24.6428571" cy="10.6382979" rx="10.7142857" ry="10.6382979"></ellipse>
                         <ellipse id="Path" fill="url(#linearGradient-6)" style="mix-blend-mode: overlay;" opacity="0.200000003" cx="35.3571429" cy="15.4255319" rx="9.64285714" ry="9.57446809"></ellipse>
                         <ellipse id="Path" fill="url(#linearGradient-7)" style="mix-blend-mode: overlay;" opacity="0.200000003" cx="6.96428571" cy="18.0851064" rx="6.96428571" ry="6.91489362"></ellipse>
@@ -122,12 +122,12 @@
                     </g>
                 </g>
             </g>
-            <text id="Remote-node" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" letter-spacing="-0.171875" fill="#FFFFFF">
+            <text id="Remote-node" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" letter-spacing="-0.171875" fill="#FFFFFF">
                 <tspan x="85" y="37">Remote node</tspan>
             </text>
-            <text id="Uses-a-third-party-s" font-family="SFUIDisplay-Regular, SF UI Display" font-size="14" font-weight="normal" letter-spacing="-0.109375" fill="#C0C0C0">
-                <tspan x="85" y="58">Uses a third-party server to connect to the Monero network. Less </tspan>
-                <tspan x="85" y="74">secure, but easier on your computer.</tspan>
+            <text id="Uses-a-third-party-s" font-family="SFProDisplay-Regular, SF Pro Display" font-size="14" font-weight="normal" letter-spacing="-0.109375" fill="#C0C0C0">
+                <tspan x="85" y="59">Uses a third-party server to connect to the Monero network. Less secure, </tspan>
+                <tspan x="85" y="75">but easier on your computer.</tspan>
             </text>
         </g>
         <g id="Options" transform="translate(262.000000, 456.000000)">
@@ -140,8 +140,8 @@
                     <use fill="#FA6800" xlink:href="#path-11"></use>
                     <use fill-opacity="0.01" fill="url(#linearGradient-10)" style="mix-blend-mode: hard-light;" xlink:href="#path-11"></use>
                 </g>
-                <text id="Next" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="68.0898438" y="24">Next</tspan>
+                <text id="Next" font-family="SFProDisplay-Bold, SF Pro Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="68.3359375" y="24">Next</tspan>
                 </text>
             </g>
             <g id="Button---send">
@@ -156,16 +156,16 @@
                     <circle id="Oval" cx="44" cy="4" r="4"></circle>
                     <circle id="Oval" opacity="0.200000003" cx="64" cy="4" r="4"></circle>
                 </g>
-                <text id="Previous" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="53.7929688" y="24">Previous</tspan>
+                <text id="Previous" font-family="SFProDisplay-Bold, SF Pro Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="54.453125" y="24">Previous</tspan>
                 </text>
             </g>
         </g>
-        <text id="View-node-guide" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" fill="#C0C0C0">
+        <text id="View-node-guide" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" fill="#C0C0C0">
             <tspan x="262" y="402">View node guide</tspan>
         </text>
-        <text id="How-do-you-want-to-c" font-family="SFUIDisplay-Regular, SF UI Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
-            <tspan x="262" y="150">How do you want to connect?</tspan>
+        <text id="How-do-you-want-to-c" font-family="SFProDisplay-Regular, SF Pro Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
+            <tspan x="262" y="151">How do you want to connect?</tspan>
         </text>
         <g id="Nav-bar">
             <rect id="Rectangle-2" fill="#000000" x="0" y="0" width="1024" height="50"></rect>

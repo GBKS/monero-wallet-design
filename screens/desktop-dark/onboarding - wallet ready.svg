@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>onboarding - wallet ready</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -25,68 +25,68 @@
     <g id="onboarding---wallet-ready" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#000000" x="0" y="0" width="1024" height="768"></rect>
         <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="1" y="50" width="1024" height="718"></rect>
-        <text id="You-are-set!" font-family="SFUIDisplay-Regular, SF UI Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
-            <tspan x="212" y="150">You are set!</tspan>
+        <text id="You-are-set!" font-family="SFProDisplay-Regular, SF Pro Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
+            <tspan x="212" y="151">You are set!</tspan>
         </text>
-        <text id="Here-are-the-details" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
-            <tspan x="212" y="186">Here are the details of your new wallet. You can now use it to store, send and receive </tspan>
-            <tspan x="212" y="210">Monero. Have fun.</tspan>
+        <text id="Here-are-the-details" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+            <tspan x="212" y="184">Here are the details of your new wallet. You can now use it to store, send and receive Monero. </tspan>
+            <tspan x="212" y="208">Have fun.</tspan>
         </text>
-        <g id="Group-2" transform="translate(212.000000, 255.000000)">
-            <text id="Language" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+        <g id="Group-2" transform="translate(212.000000, 253.000000)">
+            <text id="Language" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="0" y="15">Language</tspan>
             </text>
-            <text id="English-US" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+            <text id="English-US" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="160" y="15">English US</tspan>
             </text>
-            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="36" width="600" height="1"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="38" width="600" height="1"></rect>
         </g>
-        <g id="Group-2" transform="translate(212.000000, 450.000000)">
-            <text id="Wallet-path" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+        <g id="Group-2" transform="translate(212.000000, 448.000000)">
+            <text id="Wallet-path" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="0" y="15">Wallet path</tspan>
             </text>
-            <text id="C:/Users/donatello/D" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+            <text id="C:/Users/donatello/D" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="160" y="15">C:/Users/donatello/Documents/Monero/wallets/</tspan>
             </text>
-            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="36" width="600" height="1"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="38" width="600" height="1"></rect>
         </g>
-        <g id="Group-2" transform="translate(212.000000, 353.000000)">
-            <text id="Backup-seed" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+        <g id="Group-2" transform="translate(212.000000, 351.000000)">
+            <text id="Backup-seed" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="0" y="15">Backup seed</tspan>
             </text>
-            <text id="syllabus-aggravate-v" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+            <text id="syllabus-aggravate-v" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="160" y="15">syllabus aggravate vinegar already syllabus aggravate vinegar </tspan>
                 <tspan x="160" y="39">already syllabus aggravate vinegar already syllabus aggravate </tspan>
                 <tspan x="160" y="63">vinegar already </tspan>
             </text>
-            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="84" width="600" height="1"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="86" width="600" height="1"></rect>
         </g>
-        <g id="Group" transform="translate(212.000000, 304.000000)">
-            <text id="Wallet-name" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+        <g id="Group" transform="translate(212.000000, 302.000000)">
+            <text id="Wallet-name" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="0" y="15">Wallet name</tspan>
             </text>
-            <text id="SuperWallet2000" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+            <text id="SuperWallet2000" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="160" y="15">SuperWallet2000</tspan>
             </text>
-            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="36" width="600" height="1"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="38" width="600" height="1"></rect>
         </g>
-        <g id="Group" transform="translate(212.000000, 548.000000)">
-            <text id="Testnet" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+        <g id="Group" transform="translate(212.000000, 546.000000)">
+            <text id="Testnet" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="0" y="15">Testnet</tspan>
             </text>
-            <text id="Disabled" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+            <text id="Disabled" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="160" y="15">Disabled</tspan>
             </text>
-            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="36" width="600" height="1"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="38" width="600" height="1"></rect>
         </g>
-        <g id="Group" transform="translate(212.000000, 499.000000)">
-            <text id="Daemon-address" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+        <g id="Group" transform="translate(212.000000, 497.000000)">
+            <text id="Daemon-address" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="0" y="15">Daemon address</tspan>
             </text>
-            <text id="localhost:1234" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
+            <text id="localhost:1234" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="24" letter-spacing="-0.125" fill="#DEDEDE">
                 <tspan x="160" y="15">localhost:1234</tspan>
             </text>
-            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="36" width="600" height="1"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="38" width="600" height="1"></rect>
         </g>
         <g id="Options" transform="translate(642.000000, 625.000000)">
             <g id="Button---send">
@@ -98,8 +98,8 @@
                     <use fill="#FA6800" xlink:href="#path-5"></use>
                     <use fill-opacity="0.01" fill="url(#linearGradient-4)" style="mix-blend-mode: hard-light;" xlink:href="#path-5"></use>
                 </g>
-                <text id="Next" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="68.0898438" y="24">Next</tspan>
+                <text id="Next" font-family="SFProDisplay-Bold, SF Pro Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="68.3359375" y="24">Next</tspan>
                 </text>
             </g>
         </g>

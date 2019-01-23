@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>onboarding - choose language</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -13,16 +13,16 @@
     <g id="onboarding---choose-language" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#000000" x="0" y="0" width="1024" height="768"></rect>
         <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="1" y="50" width="1024" height="718"></rect>
-        <g id="Group-3" transform="translate(307.000000, 120.000000)" fill="#FFFFFF">
-            <text id="Welcome-to-Monero" font-family="SFUIDisplay-Regular, SF UI Display" font-size="48" font-weight="normal" letter-spacing="-0.375">
+        <g id="Group-3" transform="translate(307.000000, 121.000000)" fill="#FFFFFF">
+            <text id="Welcome-to-Monero" font-family="SFProDisplay-Regular, SF Pro Display" font-size="48" font-weight="normal" letter-spacing="-0.375">
                 <tspan x="0" y="46">Welcome to Monero</tspan>
             </text>
-            <text id="Please-choose-a-lang" font-family="SFUIDisplay-Semibold, SF UI Display" font-size="20" font-weight="500" letter-spacing="-0.15625">
-                <tspan x="55" y="126">Please choose a language</tspan>
+            <text id="Please-choose-a-lang" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="20" font-weight="500" letter-spacing="-0.15625">
+                <tspan x="55" y="125">Please choose a language</tspan>
             </text>
         </g>
-        <g id="Group" transform="translate(362.000000, 271.000000)">
-            <text id="English-(US)-Esperan" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" line-spacing="36" letter-spacing="-0.125" fill="#FFFFFF">
+        <g id="Group" transform="translate(362.000000, 269.000000)">
+            <text id="English-(US)-Esperan" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" line-spacing="36" letter-spacing="-0.125" fill="#FFFFFF">
                 <tspan x="0" y="15">English (US)</tspan>
                 <tspan x="0" y="51">Esperanto</tspan>
                 <tspan x="0" y="87">Francais</tspan>
@@ -33,14 +33,14 @@
                 <tspan x="0" y="267">Portugese (BR)</tspan>
                 <tspan x="0" y="303">Chinese</tspan>
             </text>
-            <path d="M0.5,36.5 L300.5,36.5" id="Line" stroke="#404040" stroke-linecap="square"></path>
-            <path d="M0.5,73 L300.5,73" id="Line" stroke="#404040" stroke-linecap="square"></path>
-            <path d="M0.5,109 L300.5,109" id="Line" stroke="#404040" stroke-linecap="square"></path>
-            <path d="M0.5,145 L300.5,145" id="Line" stroke="#404040" stroke-linecap="square"></path>
-            <path d="M0.5,181 L300.5,181" id="Line" stroke="#404040" stroke-linecap="square"></path>
-            <path d="M0.5,217 L300.5,217" id="Line" stroke="#404040" stroke-linecap="square"></path>
-            <path d="M0.5,253 L300.5,253" id="Line" stroke="#404040" stroke-linecap="square"></path>
-            <path d="M0.5,289 L300.5,289" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,38.5 L300.5,38.5" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,75 L300.5,75" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,111 L300.5,111" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,147 L300.5,147" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,183 L300.5,183" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,219 L300.5,219" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,255 L300.5,255" id="Line" stroke="#404040" stroke-linecap="square"></path>
+            <path d="M0.5,291 L300.5,291" id="Line" stroke="#404040" stroke-linecap="square"></path>
         </g>
         <g id="Nav-bar">
             <rect id="Rectangle-2" fill="#000000" x="0" y="0" width="1024" height="50"></rect>

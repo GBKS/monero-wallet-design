@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>onboarding - recovery phrase</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -32,19 +32,19 @@
     <g id="onboarding---recovery-phrase" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#000000" x="0" y="0" width="1024" height="768"></rect>
         <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="1" y="50" width="1024" height="718"></rect>
-        <text id="This-is-your-recover" font-family="SFUIDisplay-Regular, SF UI Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
-            <tspan x="212" y="150">This is your recovery phrase</tspan>
+        <text id="This-is-your-recover" font-family="SFProDisplay-Regular, SF Pro Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
+            <tspan x="212" y="151">This is your recovery phrase</tspan>
         </text>
-        <text id="The-words-below-are" font-family="SFUIDisplay-Regular, SF UI Display" font-size="16" font-weight="normal" fill="#C0C0C0">
+        <text id="The-words-below-are" font-family="SFProDisplay-Regular, SF Pro Display" font-size="16" font-weight="normal" fill="#C0C0C0">
             <tspan x="212" y="198">The words below are called your recovery phrase. They enable you to </tspan>
-            <tspan x="212" y="217">access your Monero and restore your wallet. It is extremely important </tspan>
-            <tspan x="212" y="236">that these words down in the order shown, and keep them secret.</tspan>
+            <tspan x="212" y="217">access your Monero and restore your wallet. It is extremely important that </tspan>
+            <tspan x="212" y="236">these words down in the order shown, and keep them secret.</tspan>
         </text>
         <g id="Input---address" transform="translate(212.000000, 260.000000)">
-            <text id="syllabus-aggravate-v" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#FFFFFF">
-                <tspan x="15" y="32">syllabus aggravate vinegar already syllabus aggravate </tspan>
-                <tspan x="15" y="58">vinegar already syllabus aggravate vinegar already syllabus </tspan>
-                <tspan x="15" y="84">aggravate vinegar already </tspan>
+            <text id="syllabus-aggravate-v" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" fill="#FFFFFF">
+                <tspan x="15" y="32">syllabus aggravate vinegar already syllabus aggravate vinegar </tspan>
+                <tspan x="15" y="58">already syllabus aggravate vinegar already syllabus aggravate </tspan>
+                <tspan x="15" y="84">vinegar already </tspan>
             </text>
             <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.25" x="0.5" y="0.5" width="599" height="99" rx="3"></rect>
         </g>
@@ -58,8 +58,8 @@
                     <use fill="#FA6800" xlink:href="#path-5"></use>
                     <use fill-opacity="0.01" fill="url(#linearGradient-4)" style="mix-blend-mode: hard-light;" xlink:href="#path-5"></use>
                 </g>
-                <text id="Next" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="68.0898438" y="24">Next</tspan>
+                <text id="Next" font-family="SFProDisplay-Bold, SF Pro Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="68.3359375" y="24">Next</tspan>
                 </text>
             </g>
             <g id="Button---send">
@@ -68,8 +68,8 @@
                     <use fill-opacity="0" fill="#FA6800" fill-rule="evenodd" xlink:href="#path-6"></use>
                 </g>
                 <rect id="Rectangle-4" fill="#808080" x="0" y="0" width="170" height="36" rx="3"></rect>
-                <text id="Previous" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="53.2929688" y="24">Previous</tspan>
+                <text id="Previous" font-family="SFProDisplay-Bold, SF Pro Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="53.953125" y="24">Previous</tspan>
                 </text>
             </g>
             <g id="Group" transform="translate(266.000000, 14.000000)" fill="#FFFFFF">
@@ -81,20 +81,20 @@
         </g>
         <g id="Button-/-Gray-/-Small" transform="translate(212.000000, 375.000000)">
             <rect id="Rectangle-4" fill="#808080" fill-rule="evenodd" x="0" y="0" width="44" height="20" rx="3"></rect>
-            <text id="Copy" font-family="SFUIDisplay-Semibold, SF UI Display" font-size="12" font-weight="500" fill="#FFFFFF">
-                <tspan x="7.65625" y="14">Copy</tspan>
+            <text id="Copy" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="12" font-weight="500" fill="#FFFFFF">
+                <tspan x="7.91992188" y="14">Copy</tspan>
             </text>
         </g>
         <g id="Button-/-Gray-/-Small" transform="translate(266.000000, 375.000000)">
             <rect id="Rectangle-4" fill="#808080" fill-rule="evenodd" x="0" y="0" width="76" height="20" rx="3"></rect>
-            <text id="Copy" font-family="SFUIDisplay-Semibold, SF UI Display" font-size="12" font-weight="500" fill="#FFFFFF">
-                <tspan x="8.37207031" y="14">Save to file</tspan>
+            <text id="Copy" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="12" font-weight="500" fill="#FFFFFF">
+                <tspan x="9.21289062" y="14">Save to file</tspan>
             </text>
         </g>
         <g id="Button-/-Gray-/-Small" transform="translate(352.000000, 375.000000)">
             <rect id="Rectangle-4" fill="#808080" fill-rule="evenodd" x="0" y="0" width="44" height="20" rx="3"></rect>
-            <text id="Copy" font-family="SFUIDisplay-Semibold, SF UI Display" font-size="12" font-weight="500" fill="#FFFFFF">
-                <tspan x="9.32910156" y="14">Print</tspan>
+            <text id="Copy" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="12" font-weight="500" fill="#FFFFFF">
+                <tspan x="9.59863281" y="14">Print</tspan>
             </text>
         </g>
         <g id="Nav-bar">

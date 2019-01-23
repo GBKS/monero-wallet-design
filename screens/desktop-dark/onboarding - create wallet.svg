@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>onboarding - create wallet</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -32,26 +32,26 @@
     <g id="onboarding---create-wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#000000" x="0" y="0" width="1024" height="768"></rect>
         <rect id="Rectangle-2" fill="url(#linearGradient-1)" opacity="0.100000001" x="1" y="50" width="1024" height="718"></rect>
-        <text id="Create-a-new-wallet" font-family="SFUIDisplay-Regular, SF UI Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
-            <tspan x="212" y="150">Create a new wallet</tspan>
+        <text id="Create-a-new-wallet" font-family="SFProDisplay-Regular, SF Pro Display" font-size="32" font-weight="normal" letter-spacing="-0.25" fill="#FFFFFF">
+            <tspan x="212" y="151">Create a new wallet</tspan>
         </text>
-        <g id="Input---address" transform="translate(212.000000, 188.000000)">
-            <text id="Wallet-name" font-family="SFUIDisplay-Medium, SF UI Display" font-size="14" font-weight="400" fill="#FFFFFF">
+        <g id="Input---address" transform="translate(212.000000, 189.000000)">
+            <text id="Wallet-name" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
                 <tspan x="0" y="13">Wallet name</tspan>
             </text>
-            <text id="Enter-a-name…" opacity="0.25" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#FFFFFF">
-                <tspan x="15" y="61">Enter a name…</tspan>
+            <text id="Enter-a-name…" opacity="0.25" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" fill="#FFFFFF">
+                <tspan x="15" y="60">Enter a name…</tspan>
             </text>
-            <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.25" x="0.5" y="29.5" width="599" height="47" rx="3"></rect>
+            <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.25" x="0.5" y="28.5" width="599" height="47" rx="3"></rect>
         </g>
-        <g id="Input---address" transform="translate(212.000000, 295.000000)">
-            <text id="Blockchain-location" font-family="SFUIDisplay-Medium, SF UI Display" font-size="14" font-weight="400" fill="#FFFFFF">
+        <g id="Input---address" transform="translate(212.000000, 296.000000)">
+            <text id="Blockchain-location" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
                 <tspan x="0" y="13">Blockchain location</tspan>
             </text>
-            <text id="C:/Users/donatello/D" font-family="SFUIDisplay-Regular, SF UI Display" font-size="22" font-weight="normal" fill="#FFFFFF">
-                <tspan x="15" y="61">C:/Users/donatello/Documents/Monero/wallets/</tspan>
+            <text id="C:/Users/donatello/D" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" fill="#FFFFFF">
+                <tspan x="15" y="60">C:/Users/donatello/Documents/Monero/wallets/</tspan>
             </text>
-            <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.25" x="0.5" y="29.5" width="599" height="47" rx="3"></rect>
+            <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.25" x="0.5" y="28.5" width="599" height="47" rx="3"></rect>
         </g>
         <g id="Options" transform="translate(212.000000, 412.000000)">
             <g id="Button---send" transform="translate(430.000000, 0.000000)">
@@ -63,8 +63,8 @@
                     <use fill="#FA6800" xlink:href="#path-5"></use>
                     <use fill-opacity="0.01" fill="url(#linearGradient-4)" style="mix-blend-mode: hard-light;" xlink:href="#path-5"></use>
                 </g>
-                <text id="Next" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="68.0898438" y="24">Next</tspan>
+                <text id="Next" font-family="SFProDisplay-Bold, SF Pro Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="68.3359375" y="24">Next</tspan>
                 </text>
             </g>
             <g id="Button---send">
@@ -73,8 +73,8 @@
                     <use fill-opacity="0" fill="#FA6800" fill-rule="evenodd" xlink:href="#path-6"></use>
                 </g>
                 <rect id="Rectangle-4" fill="#808080" x="0" y="0" width="170" height="36" rx="3"></rect>
-                <text id="Previous" font-family="SFUIDisplay-Bold, SF UI Display" font-size="16" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="53.2929688" y="24">Previous</tspan>
+                <text id="Previous" font-family="SFProDisplay-Bold, SF Pro Display" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="53.953125" y="24">Previous</tspan>
                 </text>
             </g>
             <g id="Group" transform="translate(266.000000, 14.000000)" fill="#FFFFFF">

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1224px" height="1064px" viewBox="0 0 1224 1064" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>components</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="13" y="17" width="233" height="153" rx="9"></rect>
+        <filter x="-52.6%" y="-67.0%" width="205.2%" height="260.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="37.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="31.4460666%" y1="0%" x2="68.8736728%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FA6800" offset="0%"></stop>
+            <stop stop-color="#FA6800" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12.819426,-5.17920154e-16 L247.180574,5.17920154e-16 C251.638168,-3.00926524e-16 253.254599,0.464128056 254.884229,1.33566352 C256.513858,2.20719898 257.792801,3.48614185 258.664336,5.11577148 C259.535872,6.74540111 260,8.3618323 260,12.819426 L260,157.180574 C260,161.638168 259.535872,163.254599 258.664336,164.884229 C257.792801,166.513858 256.513858,167.792801 254.884229,168.664336 C253.254599,169.535872 251.638168,170 247.180574,170 L12.819426,170 C8.3618323,170 6.74540111,169.535872 5.11577148,168.664336 C3.48614185,167.792801 2.20719898,166.513858 1.33566352,164.884229 C0.464128056,163.254599 2.00617683e-16,161.638168 -3.45280103e-16,157.180574 L3.45280103e-16,12.819426 C-2.00617683e-16,8.3618323 0.464128056,6.74540111 1.33566352,5.11577148 C2.20719898,3.48614185 3.48614185,2.20719898 5.11577148,1.33566352 C6.74540111,0.464128056 8.3618323,3.00926524e-16 12.819426,-5.17920154e-16 Z" id="path-5"></path>
+        <radialGradient cx="50%" cy="54.8563058%" fx="50%" fy="54.8563058%" r="66.7361156%" gradientTransform="translate(0.500000,0.548563),scale(1.000000,0.986350),rotate(67.723697),translate(-0.500000,-0.548563)" id="radialGradient-7">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <path d="M12.819426,-5.17920154e-16 L247.180574,5.17920154e-16 C251.638168,-3.00926524e-16 253.254599,0.464128056 254.884229,1.33566352 C256.513858,2.20719898 257.792801,3.48614185 258.664336,5.11577148 C259.535872,6.74540111 260,8.3618323 260,12.819426 L260,157.180574 C260,161.638168 259.535872,163.254599 258.664336,164.884229 C257.792801,166.513858 256.513858,167.792801 254.884229,168.664336 C253.254599,169.535872 251.638168,170 247.180574,170 L12.819426,170 C8.3618323,170 6.74540111,169.535872 5.11577148,168.664336 C3.48614185,167.792801 2.20719898,166.513858 1.33566352,164.884229 C0.464128056,163.254599 2.00617683e-16,161.638168 -3.45280103e-16,157.180574 L3.45280103e-16,12.819426 C-2.00617683e-16,8.3618323 0.464128056,6.74540111 1.33566352,5.11577148 C2.20719898,3.48614185 3.48614185,2.20719898 5.11577148,1.33566352 C6.74540111,0.464128056 8.3618323,3.00926524e-16 12.819426,-5.17920154e-16 Z" id="path-8"></path>
+        <circle id="path-10" cx="14" cy="14" r="14"></circle>
+        <circle id="path-12" cx="50" cy="50" r="50"></circle>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="1.72254642e-14%" id="linearGradient-14">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-15" cx="14" cy="14" r="14"></circle>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-17">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-18" x="195" y="30" width="26" height="26" rx="13"></rect>
+        <filter x="-82.7%" y="-67.3%" width="265.4%" height="265.4%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="1224" height="1064"></rect>
+        <g id="Menu" transform="translate(460.000000, 567.000000)">
+            <g id="Group">
+                <rect id="Rectangle-6" fill="url(#linearGradient-1)" opacity="0.100000001" x="0" y="2" width="280" height="44"></rect>
+                <text id="Send" font-family="SFProDisplay-Medium, SF Pro Display" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
+                    <tspan x="31" y="15">Send</tspan>
+                </text>
+                <path d="M11,14 C5.48608696,14 1,18.486087 1,24 C1,29.5143478 5.48608696,34 11,34 C16.5143478,34 21,29.5143478 21,24 C21,18.486087 16.5143478,14 11,14 Z" id="Shape" fill="#FA6800" fill-rule="nonzero"></path>
+                <path d="M14.6376511,23.242904 L12.2169688,20.7920666 C11.9249858,20.4964462 11.9250337,20.0171993 12.2170758,19.7216387 C12.5091179,19.4260782 12.9825638,19.4261266 13.2745469,19.721747 L17.5,23.9998378 L13.2737724,28.2782801 C12.9817746,28.5738855 12.5083286,28.5739097 12.2163013,28.2783342 C11.9242739,27.9827587 11.92425,27.5035118 12.2162478,27.2079064 L14.637522,24.7567175 L5.24774499,24.7567175 C4.83477683,24.7567175 4.5,24.4178388 4.5,23.9998108 C4.5,23.5817827 4.83477683,23.242904 5.24774499,23.242904 L14.6376511,23.242904 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="right" transform="translate(255.000000, 18.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                    <polyline id="Shape" points="0 0 6 6 0 12"></polyline>
+                </g>
+                <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.149999991" x="21" y="1" width="259" height="1"></rect>
+            </g>
+            <g id="Group" transform="translate(1.000000, 45.000000)">
+                <text id="Address-book" font-family="SFProDisplay-Medium, SF Pro Display" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
+                    <tspan x="20" y="15">Address book</tspan>
+                </text>
+                <circle id="Oval-2" fill="#FF4D39" cx="4" cy="24" r="4"></circle>
+                <g id="right" transform="translate(254.000000, 18.000000)" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                    <polyline id="Shape" points="0 0 6 6 0 12"></polyline>
+                </g>
+                <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.149999991" x="20" y="1" width="259" height="1"></rect>
+            </g>
+            <g id="Group" transform="translate(21.000000, 91.000000)" fill="#FFFFFF" opacity="0.149999991">
+                <rect id="Rectangle-3" x="0" y="0" width="259" height="1"></rect>
+            </g>
+        </g>
+        <g id="Balance-card" transform="translate(100.000000, 358.000000)">
+            <g>
+                <g id="Card-shadow">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill-opacity="0" fill="#4C4C4C" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Card-background">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Rectangle-8">
+                        <use fill="#4C4C4C" xlink:href="#path-5"></use>
+                        <use fill-opacity="0.2" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                    </g>
+                    <g id="Copy" mask="url(#mask-6)" font-family="SFProText-Regular, SF Pro Text" font-weight="normal">
+                        <g transform="translate(20.000000, 66.000000)">
+                            <text id="Your-balance" font-size="12">
+                                <tspan x="0" y="11" fill="#FFFFFF">Your balance</tspan>
+                            </text>
+                            <text id="Unlocked-balance" font-size="12">
+                                <tspan x="0" y="61" fill="#FFFFFF">Unlocked balance</tspan>
+                            </text>
+                            <text id="9.377160181" font-size="20">
+                                <tspan x="0" y="34" fill="#FFFFFF">9.377160181</tspan>
+                            </text>
+                            <text id="0.17615" font-size="20">
+                                <tspan x="0" y="84" fill="#FFFFFF">0.17615</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <path d="M204.226939,-34 C280.479602,-34 342.315789,28.692 342.315789,106 C342.32398,121.025025 339.946041,135.953389 335.273258,150.212 L293.984692,150.212 L293.984692,32.416 L204.226939,123.416 L114.469186,32.416 L114.469186,150.212 L73.1806202,150.212 C68.4923805,135.957236 66.1140323,121.026307 66.1380889,106 C66.1380889,28.692 127.974276,-34 204.226939,-34 Z M183.596465,144.36 L204.226939,165.276 L224.857413,144.36 L264.019411,104.628 L264.019411,178.744 L322.210053,178.744 C297.989269,219.064 254.215103,246 204.226939,246 C154.238775,246 110.46461,219.064 86.2162077,178.744 L144.406849,178.744 L144.406849,104.628 L183.596465,144.36 Z" id="Shape" fill="url(#radialGradient-7)" fill-rule="nonzero" opacity="0.149999991" mask="url(#mask-6)"></path>
+                    <g id="lock" mask="url(#mask-6)">
+                        <g transform="translate(221.000000, 74.000000)">
+                            <path d="M12.96,7.56 C12.96,7.56 12.96,5.796 12.96,5.4 C12.96,3.204 11.196,1.44 9,1.44 C6.804,1.44 5.04,3.204 5.04,5.4 C5.04,5.796 5.04,7.56 5.04,7.56" id="Shape" stroke="#FFFFFF" stroke-width="0.72" fill="none" stroke-linecap="round"></path>
+                            <rect id="Rectangle-path" stroke="none" fill="none" x="0" y="0" width="18" height="18"></rect>
+                            <path d="M14.76,7.2 L3.24,7.2 C2.628,7.2 2.16,7.668 2.16,8.28 L2.16,16.92 C2.16,17.532 2.628,18 3.24,18 L14.76,18 C15.372,18 15.84,17.532 15.84,16.92 L15.84,8.28 C15.84,7.668 15.372,7.2 14.76,7.2 Z M9.72,12.672 L9.72,13.68 C9.72,14.076 9.396,14.4 9,14.4 C8.604,14.4 8.28,14.076 8.28,13.68 L8.28,12.672 C8.064,12.492 7.92,12.204 7.92,11.88 C7.92,11.268 8.388,10.8 9,10.8 C9.612,10.8 10.08,11.268 10.08,11.88 C10.08,12.204 9.936,12.492 9.72,12.672 Z" id="Shape" stroke="none" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                    <text id="MONERO" mask="url(#mask-6)" font-family="CenturyGothic-Bold, Century Gothic" font-size="20.48" font-weight="bold" letter-spacing="-0.96" fill="#FFFFFF">
+                        <tspan x="60" y="44">MONER</tspan>
+                        <tspan x="128.51" y="44" letter-spacing="-0.64">O</tspan>
+                    </text>
+                    <g id="Group-10" mask="url(#mask-6)">
+                        <g transform="translate(20.000000, 20.000000)" id="xmr">
+                            <g>
+                                <g transform="translate(0.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero" id="Shape">
+                                    <path d="M13.8226939,0 C6.1974276,0 0.013808885,6.2692 0.013808885,14 C0.0114032251,15.5026307 0.249238053,16.9957236 0.718062022,18.4212 L4.84691865,18.4212 L4.84691865,6.6416 L13.8226939,15.7416 L22.7984692,6.6416 L22.7984692,18.4212 L26.9273258,18.4212 C27.3946041,16.9953389 27.632398,15.5025025 27.6315789,14 C27.6315789,6.2692 21.4479602,0 13.8226939,0"></path>
+                                    <path d="M11.7596465,17.836 L7.84068492,13.8628 L7.84068492,21.2744 L2.02162077,21.2744 C4.44646098,25.3064 8.82387753,28 13.8226939,28 C18.8215103,28 23.1989269,25.3064 25.6210053,21.2744 L19.8019411,21.2744 L19.8019411,13.8628 L15.8857413,17.836 L13.8226939,19.9276 L11.7596465,17.836 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="card-background" transform="translate(100.000000, 579.000000)">
+            <g id="Card-background">
+                <mask id="mask-9" fill="white">
+                    <use xlink:href="#path-8"></use>
+                </mask>
+                <g id="Rectangle-8">
+                    <use fill="#4C4C4C" xlink:href="#path-8"></use>
+                    <use fill-opacity="0.2" fill="url(#linearGradient-4)" xlink:href="#path-8"></use>
+                </g>
+                <path d="M204.226939,-34 C280.479602,-34 342.315789,28.692 342.315789,106 C342.32398,121.025025 339.946041,135.953389 335.273258,150.212 L293.984692,150.212 L293.984692,32.416 L204.226939,123.416 L114.469186,32.416 L114.469186,150.212 L73.1806202,150.212 C68.4923805,135.957236 66.1140323,121.026307 66.1380889,106 C66.1380889,28.692 127.974276,-34 204.226939,-34 Z M183.596465,144.36 L204.226939,165.276 L224.857413,144.36 L264.019411,104.628 L264.019411,178.744 L322.210053,178.744 C297.989269,219.064 254.215103,246 204.226939,246 C154.238775,246 110.46461,219.064 86.2162077,178.744 L144.406849,178.744 L144.406849,104.628 L183.596465,144.36 Z" id="Shape" fill="url(#radialGradient-7)" fill-rule="nonzero" opacity="0.149999991" mask="url(#mask-9)"></path>
+                <text id="MONERO" mask="url(#mask-9)" font-family="CenturyGothic-Bold, Century Gothic" font-size="20.48" font-weight="bold" letter-spacing="-0.96" fill="#FFFFFF">
+                    <tspan x="60" y="44">MONER</tspan>
+                    <tspan x="128.51" y="44" letter-spacing="-0.64">O</tspan>
+                </text>
+                <g id="Group-10" mask="url(#mask-9)">
+                    <g transform="translate(20.000000, 20.000000)" id="xmr">
+                        <g>
+                            <g transform="translate(0.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero" id="Shape">
+                                <path d="M13.8226939,0 C6.1974276,0 0.013808885,6.2692 0.013808885,14 C0.0114032251,15.5026307 0.249238053,16.9957236 0.718062022,18.4212 L4.84691865,18.4212 L4.84691865,6.6416 L13.8226939,15.7416 L22.7984692,6.6416 L22.7984692,18.4212 L26.9273258,18.4212 C27.3946041,16.9953389 27.632398,15.5025025 27.6315789,14 C27.6315789,6.2692 21.4479602,0 13.8226939,0"></path>
+                                <path d="M11.7596465,17.836 L7.84068492,13.8628 L7.84068492,21.2744 L2.02162077,21.2744 C4.44646098,25.3064 8.82387753,28 13.8226939,28 C18.8215103,28 23.1989269,25.3064 25.6210053,21.2744 L19.8019411,21.2744 L19.8019411,13.8628 L15.8857413,17.836 L13.8226939,19.9276 L11.7596465,17.836 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="logo" transform="translate(100.000000, 290.000000)">
+            <text id="MONERO" font-family="CenturyGothic-Bold, Century Gothic" font-size="20.48" font-weight="bold" letter-spacing="-0.96" fill="#FFFFFF">
+                <tspan x="40" y="21">MONER</tspan>
+                <tspan x="108.51" y="21" letter-spacing="-0.64">O</tspan>
+            </text>
+            <g>
+                <mask id="mask-11" fill="white">
+                    <use xlink:href="#path-10"></use>
+                </mask>
+                <use id="Oval-3" fill="#FFFFFF" xlink:href="#path-10"></use>
+                <g id="xmr" mask="url(#mask-11)" fill-rule="nonzero">
+                    <g transform="translate(-8.960000, -11.200000)" id="Shape">
+                        <path d="M33.8154687,0.24609375 C26.0081319,0.24609375 0.04703125,14.5929858 0.04703125,22.4010938 C0.0445681495,23.9187508 9.21520424,28.3656808 9.69522244,29.805412 L13.9226649,29.805412 L13.9226649,17.908016 L23.1127572,27.099016 L32.3028495,17.908016 L32.3028495,29.805412 L36.5302919,29.805412 C37.0087275,28.3652923 43.1284949,28.6165436 43.1276562,27.099016 C43.1276562,19.290908 30.9200941,11.2 23.1127572,11.2" fill="#FA6800"></path>
+                        <path d="M16.9582984,25.201428 L16.9582984,32.687144 L11.0222594,32.687144 C8.995,39.865 17.9598466,48.335 23.0591492,48.335 C28.1584518,48.335 41.584375,39.816875 35.096039,32.687144 L29.16,32.687144 L29.16,25.201428 L25.1650767,29.21436 L23.0605579,31.326876 L20.956039,29.21436 L16.9582984,25.201428 Z" fill="#4C4C4C"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="logo" transform="translate(460.000000, 691.000000)">
+            <mask id="mask-13" fill="white">
+                <use xlink:href="#path-12"></use>
+            </mask>
+            <use id="Oval-3" fill="#FFFFFF" xlink:href="#path-12"></use>
+            <g id="xmr" mask="url(#mask-13)" fill-rule="nonzero">
+                <g transform="translate(-32.000000, -40.000000)" id="Shape">
+                    <path d="M120.769531,0.87890625 C92.8861853,0.87890625 0.16796875,52.1178062 0.16796875,80.0039062 C0.159171962,85.4241099 32.9114437,101.306003 34.6257944,106.4479 L49.7238032,106.4479 L49.7238032,63.9572 L82.5455614,96.7822 L115.36732,63.9572 L115.36732,106.4479 L130.465328,106.4479 C132.174027,101.304615 154.030339,102.201941 154.027344,96.7822 C154.027344,68.8961 110.428907,40 82.5455614,40" fill="#FA6800"></path>
+                    <path d="M60.5653516,90.0051 L60.5653516,116.7398 L39.3652122,116.7398 C32.125,142.375 64.1423092,172.625 82.3541043,172.625 C100.565899,172.625 148.515625,142.203125 125.342996,116.7398 L104.142857,116.7398 L104.142857,90.0051 L89.8752738,104.337 L82.3591352,111.8817 L74.8429965,104.337 L60.5653516,90.0051 Z" fill="#4C4C4C"></path>
+                </g>
+            </g>
+        </g>
+        <g id="Nav-bar" transform="translate(100.000000, 200.000000)">
+            <rect id="Rectangle-2" fill="#000000" x="0" y="0" width="1024" height="50"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-14)" opacity="0.100000001" x="0" y="0" width="1024" height="50"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.149999991" x="0" y="49" width="1024" height="1"></rect>
+            <g id="logo" stroke-width="1" transform="translate(449.000000, 11.000000)">
+                <text id="MONERO" font-family="CenturyGothic-Bold, Century Gothic" font-size="20.48" font-weight="bold" letter-spacing="-0.96" fill="#FFFFFF">
+                    <tspan x="40" y="21">MONER</tspan>
+                    <tspan x="108.51" y="21" letter-spacing="-0.64">O</tspan>
+                </text>
+                <g>
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <use id="Oval-3" fill="#FFFFFF" xlink:href="#path-15"></use>
+                    <g id="xmr" mask="url(#mask-16)" fill-rule="nonzero">
+                        <g transform="translate(-8.960000, -11.200000)" id="Shape">
+                            <path d="M33.8154687,0.24609375 C26.0081319,0.24609375 0.04703125,14.5929858 0.04703125,22.4010938 C0.0445681495,23.9187508 9.21520424,28.3656808 9.69522244,29.805412 L13.9226649,29.805412 L13.9226649,17.908016 L23.1127572,27.099016 L32.3028495,17.908016 L32.3028495,29.805412 L36.5302919,29.805412 C37.0087275,28.3652923 43.1284949,28.6165436 43.1276562,27.099016 C43.1276562,19.290908 30.9200941,11.2 23.1127572,11.2" fill="#FA6800"></path>
+                            <path d="M16.9582984,25.201428 L16.9582984,32.687144 L11.0222594,32.687144 C8.995,39.865 17.9598466,48.335 23.0591492,48.335 C28.1584518,48.335 41.584375,39.816875 35.096039,32.687144 L29.16,32.687144 L29.16,25.201428 L25.1650767,29.21436 L23.0605579,31.326876 L20.956039,29.21436 L16.9582984,25.201428 Z" fill="#4C4C4C"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="fullscreen" opacity="0.75" stroke-width="1" transform="translate(943.000000, 16.000000)" stroke="#FFFFFF">
+                <rect id="Rectangle-7" stroke-width="1.63636364" x="0.818181818" y="0.818181818" width="16.3636364" height="16.3636364" rx="1.63636364"></rect>
+                <rect id="Rectangle-7" stroke-width="1.63636364" fill="#FFFFFF" x="0.818181818" y="0.818181818" width="16.3636364" height="3.27272727" rx="1.63636364"></rect>
+            </g>
+            <rect id="minimize" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" opacity="0.75" x="899" y="31" width="16" height="2" rx="1"></rect>
+            <g id="close" opacity="0.75" stroke-width="1" transform="translate(988.000000, 18.000000)" stroke="#FFFFFF" stroke-linecap="round">
+                <path d="M0,0 L14,14" id="Shape" stroke-width="1.85022026"></path>
+                <path d="M14,0 L0,14" id="Shape" stroke-width="1.85022026"></path>
+            </g>
+            <g id="sidebar" opacity="0.75" stroke-width="1" transform="translate(16.000000, 16.000000)" stroke="#FFFFFF">
+                <rect id="Rectangle-7" stroke-width="1.63636364" x="0.818181818" y="0.818181818" width="16.3636364" height="16.3636364" rx="1.63636364"></rect>
+                <path d="M6.18181818,17.1818182 L6.18181818,0.818181818 L1.63999999,0.818181818 C1.18612234,0.818181818 0.818181818,1.18612234 0.818181818,1.63999999 L0.818181818,16.36 C0.818181818,16.8138777 1.18612234,17.1818182 1.63999999,17.1818182 L6.18181818,17.1818182 Z" id="Rectangle-7" stroke-width="1.63636364" fill="#FFFFFF"></path>
+            </g>
+        </g>
+        <text id="Components" font-family="SFProDisplay-Regular, SF Pro Display" font-size="32" font-weight="normal" fill="#FFFFFF">
+            <tspan x="100" y="131">Components</tspan>
+        </text>
+        <g id="Network-status" transform="translate(460.000000, 290.000000)">
+            <g>
+                <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="300" height="120"></rect>
+                <g id="lightning" transform="translate(27.000000, 26.000000)" fill="#FA6800" fill-rule="nonzero">
+                    <path d="M1.09102061,27 C1.0108412,27 0.930116358,26.98272 0.853755019,26.946 C0.606671541,26.8272 0.487220589,26.5464 0.573945253,26.28882 L4.69800303,14.04 L0.54558247,14.04 C0.363406131,14.04 0.193229431,13.94982 0.0917779375,13.7997 C-0.00967355656,13.64958 -0.0282184533,13.45896 0.0421430667,13.29264 L5.49652447,0.33264 C5.58106738,0.13122 5.77960686,0 5.99996387,0 L11.1816262,0 C11.3665297,0 11.5388882,0.09288 11.6392488,0.24624 C11.7401549,0.40014 11.7548817,0.59346 11.6796112,0.76032 L7.38701306,10.26 L11.4543453,10.26 C11.6545211,10.26 11.8388792,10.36908 11.9343308,10.54296 C12.0297825,10.71738 12.0205101,10.9296 11.910877,11.09538 L1.54755233,26.75538 C1.44337365,26.91306 1.26992432,27 1.09102061,27 Z" id="Shape"></path>
+                </g>
+                <text opacity="0.5" font-family="SFProDisplay-Medium, SF Pro Display" font-size="13" font-weight="400" fill="#FFFFFF">
+                    <tspan x="50" y="33">Network status</tspan>
+                </text>
+                <text id="Synchronizing" font-family="SFProDisplay-Medium, SF Pro Display" font-size="20" font-weight="400" fill="#FFFFFF">
+                    <tspan x="50" y="53">Synchronizing</tspan>
+                </text>
+                <text id="Blocks-remaining" font-family="SFProText-Regular, SF Pro Text" font-size="13" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="20" y="82">Blocks remaining</tspan>
+                </text>
+                <text id="67,775" font-family="SFProText-Regular, SF Pro Text" font-size="13" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="239.05127" y="82">67,775</tspan>
+                </text>
+                <rect id="Rectangle-5" fill="#FFFFFF" opacity="0.200000003" x="20" y="92" width="260" height="8" rx="4"></rect>
+                <rect id="Rectangle-5" fill="#FA6800" x="20" y="92" width="171" height="8" rx="4"></rect>
+            </g>
+        </g>
+        <g id="Privacy-level-picker" transform="translate(460.000000, 450.000000)">
+            <g transform="translate(0.000000, 1.000000)">
+                <text id="Privacy-level-Ringsi" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="0" y="13">Privacy level     Ringsize 5</tspan>
+                </text>
+                <text id="Transaction-cost" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="497" y="13">Transaction cost</tspan>
+                </text>
+                <text id="Normal" font-family="SFProText-Regular, SF Pro Text" font-size="14" font-weight="normal" fill="#FA6800">
+                    <tspan x="183.717773" y="74">Normal</tspan>
+                </text>
+                <text id="High" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="570.671875" y="75">High</tspan>
+                </text>
+                <text id="Low" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="0.363769531" y="75">Low</tspan>
+                </text>
+                <rect id="Rectangle-4" fill="#FFFFFF" opacity="0.5" x="0" y="41" width="600" height="4" rx="2"></rect>
+                <rect id="Rectangle-4" fill="#FA6800" transform="translate(110.500000, 43.000000) scale(1, -1) translate(-110.500000, -43.000000) " x="0" y="41" width="221" height="4" rx="2"></rect>
+                <rect id="Rectangle-4" fill="#000000" opacity="0.5" x="43" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#000000" opacity="0.5" x="85" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#000000" opacity="0.5" x="128" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#000000" opacity="0.5" x="171" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="214" y="39" width="2" height="8" rx="1"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="256" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="299" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="342" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="384" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="427" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="470" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="513" y="42" width="2" height="2"></rect>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="555" y="42" width="2" height="2"></rect>
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                    <use fill="#FA6800" fill-rule="evenodd" xlink:href="#path-18"></use>
+                    <use fill-opacity="0.1" fill="url(#linearGradient-17)" fill-rule="evenodd" xlink:href="#path-18"></use>
+                </g>
+            </g>
+        </g>
+        <rect id="Orange" fill="#FA6800" x="100" y="799" width="100" height="100" rx="10"></rect>
+        <rect id="Blue" fill="#30BCED" x="220" y="799" width="100" height="100" rx="10"></rect>
+    </g>
+</svg>

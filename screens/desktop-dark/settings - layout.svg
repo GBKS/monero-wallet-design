@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1024px" height="801px" viewBox="0 0 1024 801" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>send</title>
+    <title>settings - layout</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="42.0212907%" y1="0%" x2="57.9787093%" y2="100%" id="linearGradient-1">
+        <linearGradient x1="41.2710175%" y1="0%" x2="58.7289825%" y2="100%" id="linearGradient-1">
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="96.5978784%" y1="100%" x2="3.40212163%" y2="1.72254642e-14%" id="linearGradient-2">
+        <linearGradient x1="100%" y1="99.0391439%" x2="0%" y2="0.960856124%" id="linearGradient-2">
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
@@ -37,59 +37,36 @@
             <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
         <circle id="path-11" cx="14" cy="14" r="14"></circle>
-        <linearGradient x1="100%" y1="52%" x2="0%" y2="48%" id="linearGradient-13">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#000000" offset="100%"></stop>
-        </linearGradient>
-        <rect id="path-14" x="0" y="0" width="200" height="40" rx="3"></rect>
-        <filter x="-40.0%" y="-175.0%" width="180.0%" height="500.0%" filterUnits="objectBoundingBox" id="filter-15">
-            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <path d="M12.9,3 L141.075,3 C142.566169,3 143.775,4.20883118 143.775,5.7 L143.775,25.1888889 C143.775,26.6800577 142.566169,27.8888889 141.075,27.8888889 L12.9,27.8888889 C11.4088312,27.8888889 10.2,26.6800577 10.2,25.1888889 L10.2,5.7 C10.2,4.20883118 11.4088312,3 12.9,3 Z" id="path-16"></path>
-        <filter x="-18.7%" y="-80.4%" width="137.4%" height="300.9%" filterUnits="objectBoundingBox" id="filter-17">
-            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+        <rect id="path-13" x="629" y="330" width="16" height="16" rx="8"></rect>
+        <filter x="-106.2%" y="-81.2%" width="312.5%" height="312.5%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <path d="M13.7,3 L152.351471,3 C153.842639,3 155.051471,4.20883118 155.051471,5.7 L155.051471,25.1888889 C155.051471,26.6800577 153.842639,27.8888889 152.351471,27.8888889 L13.7,27.8888889 C12.2088312,27.8888889 11,26.6800577 11,25.1888889 L11,5.7 C11,4.20883118 12.2088312,3 13.7,3 Z" id="path-18"></path>
-        <filter x="-17.4%" y="-80.4%" width="134.7%" height="300.9%" filterUnits="objectBoundingBox" id="filter-19">
-            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <path d="M13.7,3 L152.351471,3 C153.842639,3 155.051471,4.20883118 155.051471,5.7 L155.051471,25.1888889 C155.051471,26.6800577 153.842639,27.8888889 152.351471,27.8888889 L13.7,27.8888889 C12.2088312,27.8888889 11,26.6800577 11,25.1888889 L11,5.7 C11,4.20883118 12.2088312,3 13.7,3 Z" id="path-20"></path>
-        <filter x="-17.4%" y="-80.4%" width="134.7%" height="300.9%" filterUnits="objectBoundingBox" id="filter-21">
-            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <circle id="path-22" cx="14" cy="14" r="14"></circle>
     </defs>
-    <g id="send" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#000000" x="0" y="0" width="1024" height="801"></rect>
+    <g id="settings---layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="1024" height="768"></rect>
         <g id="Background">
-            <rect id="Rectangle-2" fill="url(#linearGradient-1)" fill-rule="evenodd" opacity="0.100000001" x="0" y="50" width="300" height="751"></rect>
-            <rect id="Rectangle-2" fill="url(#linearGradient-2)" fill-rule="evenodd" opacity="0.100000001" x="300" y="50" width="725" height="751"></rect>
-            <g id="Nav/Send" transform="translate(0.000000, 300.000000)">
-                <g id="NavItem/Default">
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" fill-rule="evenodd" opacity="0.100000001" x="0" y="50" width="300" height="718"></rect>
+            <rect id="Rectangle-2" fill="url(#linearGradient-2)" fill-rule="evenodd" opacity="0.100000001" x="300" y="50" width="725" height="718"></rect>
+            <g id="Nav/Settings" transform="translate(0.000000, 300.000000)">
+                <g id="NavItem/Default" transform="translate(20.000000, 270.000000)">
                     <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
-                        <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
+                        <polyline id="Shape" points="254 18 260 24 254 30"></polyline>
                     </g>
-                    <g id="NavItemDot/Blue" transform="translate(8.000000, 1.000000)" fill="#00ABFF" fill-rule="evenodd" stroke-width="1">
+                    <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
+                        <rect id="Rectangle-3" x="37.3244147" y="0" width="241.675585" height="1"></rect>
+                    </g>
+                    <g id="NavItemDot/Yellow" transform="translate(8.000000, 1.000000)" fill="#FFD87B" fill-rule="evenodd" stroke-width="1">
                         <g id="Account" transform="translate(12.000000, 18.000000)">
                             <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
                         </g>
                     </g>
                     <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">Account</tspan>
+                        <tspan x="40" y="16">Seed &amp; Keys</tspan>
                     </text>
                 </g>
-                <g id="NavItem/Default" transform="translate(0.000000, 45.000000)">
+                <g id="NavItem/Default" transform="translate(0.000000, 225.000000)">
                     <g id="NavItemBackground/Active">
                         <rect id="Rectangle-6" fill="url(#linearGradient-3)" fill-rule="evenodd" opacity="0.100000001" x="19" y="1" width="280" height="44"></rect>
                         <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" points="274 18 280 24 274 30"></polyline>
@@ -97,17 +74,17 @@
                     <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
                         <rect id="Rectangle-3" x="40" y="0" width="259" height="1"></rect>
                     </g>
-                    <g id="NavItemDot/OrangeActive" transform="translate(8.000000, 1.000000)" fill-rule="evenodd" stroke-width="1">
+                    <g id="NavItemDot/DarkGreenActive" transform="translate(8.000000, 1.000000)" fill-rule="evenodd" stroke-width="1">
                         <g id="Account" transform="translate(12.000000, 12.000000)">
-                            <circle id="Oval-2" fill="#FA6800" cx="10" cy="10" r="10"></circle>
+                            <circle id="Oval-2" fill="#2EB358" cx="10" cy="10" r="10"></circle>
                             <path d="M13.6376511,9.242904 L11.2169688,6.79206656 C10.9249858,6.49644619 10.9250337,6.01719933 11.2170758,5.72163874 C11.5091179,5.42607815 11.9825638,5.42612662 12.2745469,5.72174699 L16.5,9.99983784 L12.2737724,14.2782801 C11.9817746,14.5738855 11.5083286,14.5739097 11.2163013,14.2783342 C10.9242739,13.9827587 10.92425,13.5035118 11.2162478,13.2079064 L13.637522,10.7567175 L4.24774499,10.7567175 C3.83477683,10.7567175 3.5,10.4178388 3.5,9.99981077 C3.5,9.5817827 3.83477683,9.242904 4.24774499,9.242904 L13.6376511,9.242904 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
                         </g>
                     </g>
                     <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">   Send</tspan>
+                        <tspan x="40" y="16">   Settings</tspan>
                     </text>
                 </g>
-                <g id="NavItem/Default" transform="translate(0.000000, 225.000000)">
+                <g id="NavItem/Default" transform="translate(0.000000, 180.000000)">
                     <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
                         <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
                     </g>
@@ -123,39 +100,7 @@
                         <tspan x="40" y="16">Advanced</tspan>
                     </text>
                 </g>
-                <g id="NavItem/Default" transform="translate(20.000000, 90.000000)">
-                    <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
-                        <polyline id="Shape" points="252 18 258 24 252 30"></polyline>
-                    </g>
-                    <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
-                        <rect id="Rectangle-3" x="37.0568562" y="0" width="239.943144" height="1"></rect>
-                    </g>
-                    <g id="NavItemDot/Red" transform="translate(8.000000, 1.000000)" fill="#FF3932" fill-rule="evenodd" stroke-width="1">
-                        <g id="Account" transform="translate(12.000000, 18.000000)">
-                            <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
-                        </g>
-                    </g>
-                    <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">Address book</tspan>
-                    </text>
-                </g>
-                <g id="NavItem/Default" transform="translate(0.000000, 270.000000)">
-                    <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
-                        <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
-                    </g>
-                    <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
-                        <rect id="Rectangle-3" x="40" y="0" width="259" height="1"></rect>
-                    </g>
-                    <g id="NavItemDot/DarkGreen" transform="translate(8.000000, 1.000000)" fill="#2EB358" fill-rule="evenodd" stroke-width="1">
-                        <g id="Account" transform="translate(12.000000, 18.000000)">
-                            <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
-                        </g>
-                    </g>
-                    <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">Settings</tspan>
-                    </text>
-                </g>
-                <g id="NavItem/Default" transform="translate(0.000000, 180.000000)">
+                <g id="NavItem/Default" transform="translate(0.000000, 135.000000)">
                     <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
                         <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
                     </g>
@@ -171,7 +116,7 @@
                         <tspan x="40" y="16">History</tspan>
                     </text>
                 </g>
-                <g id="NavItem/Default" transform="translate(0.000000, 135.000000)">
+                <g id="NavItem/Default" transform="translate(0.000000, 90.000000)">
                     <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
                         <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
                     </g>
@@ -187,8 +132,37 @@
                         <tspan x="40" y="16">Receive</tspan>
                     </text>
                 </g>
+                <g id="NavItem/Default" transform="translate(0.000000, 45.000000)">
+                    <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                        <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
+                    </g>
+                    <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
+                        <rect id="Rectangle-3" x="40" y="0" width="259" height="1"></rect>
+                    </g>
+                    <g id="NavItemDot/Orange" transform="translate(8.000000, 1.000000)" fill="#FA6800" fill-rule="evenodd" stroke-width="1">
+                        <g id="Account" transform="translate(12.000000, 18.000000)">
+                            <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
+                        </g>
+                    </g>
+                    <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
+                        <tspan x="40" y="16">Send</tspan>
+                    </text>
+                </g>
+                <g id="NavItem/Default">
+                    <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                        <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
+                    </g>
+                    <g id="NavItemDot/Blue" transform="translate(8.000000, 1.000000)" fill="#00ABFF" fill-rule="evenodd" stroke-width="1">
+                        <g id="Account" transform="translate(12.000000, 18.000000)">
+                            <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
+                        </g>
+                    </g>
+                    <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
+                        <tspan x="40" y="16">Account</tspan>
+                    </text>
+                </g>
             </g>
-            <g id="Network-status---dark" transform="translate(0.000000, 681.000000)" fill-rule="evenodd">
+            <g id="Network-status---dark" transform="translate(0.000000, 648.000000)" fill-rule="evenodd">
                 <rect id="Rectangle" fill="#000000" x="0" y="0" width="300" height="120"></rect>
                 <g stroke-width="1">
                     <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="300" height="120"></rect>
@@ -212,7 +186,7 @@
                     <rect id="Rectangle-5" fill="#FA6800" x="20" y="92" width="171" height="8" rx="4"></rect>
                 </g>
             </g>
-            <rect id="Rectangle-2" fill="#D8D8D8" fill-rule="evenodd" opacity="0.149999991" x="299" y="50" width="1" height="749"></rect>
+            <rect id="Rectangle-2" fill="#D8D8D8" fill-rule="evenodd" opacity="0.149999991" x="299" y="50" width="1" height="716"></rect>
             <g id="Balance-card" transform="translate(20.000000, 90.000000)" fill-rule="evenodd" stroke-width="1">
                 <g>
                     <g id="Card-shadow">
@@ -298,145 +272,83 @@
                 </g>
             </g>
         </g>
-        <g id="Button---send" transform="translate(349.000000, 587.000000)">
-            <g id="Rectangle-4">
-                <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
-                <use fill="#FA6800" fill-rule="evenodd" xlink:href="#path-14"></use>
-                <use fill-opacity="0.01" fill="url(#linearGradient-13)" fill-rule="evenodd" style="mix-blend-mode: hard-light;" xlink:href="#path-14"></use>
-            </g>
-            <g id="right" transform="translate(165.000000, 10.000000)" fill-rule="nonzero">
-                <path d="M10,0 C4.48608696,0 0,4.48608696 0,10 C0,15.5143478 4.48608696,20 10,20 C15.5143478,20 20,15.5143478 20,10 C20,4.48608696 15.5143478,0 10,0 Z M15.5243478,10.3078261 L12.0465217,13.7856522 C11.9617391,13.8704348 11.8504348,13.9130435 11.7391304,13.9130435 C11.6278261,13.9130435 11.5165217,13.8704348 11.4317391,13.7856522 C11.2617391,13.6156522 11.2617391,13.3408696 11.4317391,13.1708696 L14.1678261,10.4347826 L4.7826087,10.4347826 C4.5426087,10.4347826 4.34782609,10.24 4.34782609,10 C4.34782609,9.76 4.5426087,9.56521739 4.7826087,9.56521739 L14.1678261,9.56521739 L11.4317391,6.82913043 C11.2617391,6.65913043 11.2617391,6.38434783 11.4317391,6.21434783 C11.6017391,6.04434783 11.8765217,6.04434783 12.0465217,6.21434783 L15.5243478,9.69217391 C15.5647826,9.73217391 15.5965217,9.78043478 15.6186957,9.83391304 C15.6626087,9.94 15.6626087,10.06 15.6186957,10.166087 C15.5965217,10.2195652 15.5647826,10.2673913 15.5243478,10.3078261 Z" id="Shape" fill="#FFFFFF"></path>
-                <path d="M13.6376511,9.242904 L11.2169688,6.79206656 C10.9249858,6.49644619 10.9250337,6.01719933 11.2170758,5.72163874 C11.5091179,5.42607815 11.9825638,5.42612662 12.2745469,5.72174699 L16.5,9.99983784 L12.2737724,14.2782801 C11.9817746,14.5738855 11.5083286,14.5739097 11.2163013,14.2783342 C10.9242739,13.9827587 10.92425,13.5035118 11.2162478,13.2079064 L13.637522,10.7567175 L4.24774499,10.7567175 C3.83477683,10.7567175 3.5,10.4178388 3.5,9.99981077 C3.5,9.5817827 3.83477683,9.242904 4.24774499,9.242904 L13.6376511,9.242904 Z" id="Shape" fill="#FA7200"></path>
-            </g>
-            <text id="Send" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold" fill="#FFFFFF">
-                <tspan x="15" y="27">Send</tspan>
-            </text>
-        </g>
-        <g id="Input---description" transform="translate(349.000000, 471.000000)">
-            <text id="Description-Optional" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
-                <tspan x="0" y="13" fill="#FFFFFF">Description</tspan>
-                <tspan x="71.5791016" y="13" fill="#808080">   Optional</tspan>
-            </text>
-            <text id="Saved-to-local-walle" opacity="0.25" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" fill="#FFFFFF">
-                <tspan x="15" y="60">Saved to local wallet history…</tspan>
-            </text>
-            <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.25" x="0.5" y="28.5" width="624" height="47" rx="3"></rect>
-        </g>
-        <g id="Input---address" transform="translate(349.000000, 355.000000)">
-            <text id="Address-Paste-in-or" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
-                <tspan x="0" y="13" fill="#FFFFFF">Address </tspan>
-                <tspan x="55.3642578" y="13" fill="#808080">  Paste in or select from</tspan>
-                <tspan x="203.977539" y="13" fill="#FFFFFF"> </tspan>
-                <tspan x="207.463867" y="13" fill="#CCCCCC">Address book</tspan>
-            </text>
-            <g id="Button-/-Gray-/-Small" transform="translate(581.000000, 0.000000)">
-                <rect id="Rectangle-4" fill="#808080" fill-rule="evenodd" x="0" y="0" width="44" height="20" rx="3"></rect>
-                <text id="Copy" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="6.75097656" y="14">Paste</tspan>
+        <g id="Toggle" transform="translate(438.000000, 90.000000)">
+            <g id="Button-/-gray-/-small">
+                <rect id="Rectangle-4" stroke="#808080" x="0.5" y="0.5" width="449" height="31" rx="3"></rect>
+                <rect id="Rectangle-4" stroke="#808080" x="270.5" y="0.5" width="1" height="31" rx="0.5"></rect>
+                <rect id="Rectangle-4" stroke="#808080" x="361.5" y="0.5" width="1" height="31" rx="0.5"></rect>
+                <rect id="Rectangle-4" fill="#808080" x="90" y="0" width="90" height="32"></rect>
+                <text id="Node" font-family="Roboto-Medium, Roboto" font-size="15" font-weight="400" fill="#FFFFFF">
+                    <tspan x="207.147217" y="21">Node</tspan>
+                </text>
+                <text id="Layout" font-family="Roboto-Medium, Roboto" font-size="15" font-weight="400" fill="#FFFFFF">
+                    <tspan x="112.412109" y="21">Layout</tspan>
+                </text>
+                <text id="Log" font-family="Roboto-Medium, Roboto" font-size="15" font-weight="400" fill="#FFFFFF">
+                    <tspan x="302.420654" y="21">Log</tspan>
+                </text>
+                <text id="Info" font-family="Roboto-Medium, Roboto" font-size="15" font-weight="400" fill="#FFFFFF">
+                    <tspan x="391.783447" y="21">Info</tspan>
                 </text>
             </g>
-            <text id="4...-/-8...-/-OpenAl" opacity="0.25" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" fill="#FFFFFF">
-                <tspan x="15" y="60">4...  /  8...  /  OpenAlias</tspan>
-            </text>
-            <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.25" x="0.5" y="28.5" width="624" height="47" rx="3"></rect>
+            <g id="Button-/-orange-/-small" transform="translate(0.000000, 7.000000)" fill="#FFFFFF" font-family="Roboto-Medium, Roboto" font-size="15" font-weight="400">
+                <text id="Wallet">
+                    <tspan x="24.1149902" y="14">Wallet</tspan>
+                </text>
+            </g>
         </g>
-        <text id="Send" font-family="Roboto-Regular, Roboto" font-size="32" font-weight="normal" fill="#FFFFFF">
-            <tspan x="349" y="201">Send</tspan>
+        <g id="Input---address" transform="translate(350.000000, 162.000000)">
+            <g id="Group-3">
+                <text id="Custom-decorations" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="35" y="17">Custom decorations</tspan>
+                </text>
+                <g id="Check-button" stroke="#FFFFFF">
+                    <rect id="Rectangle-4" x="-0.5" y="-0.5" width="23" height="23" rx="3"></rect>
+                    <polyline id="Shape" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="5.11111111 12.0955675 9.99407625 16.0769231 17.037037 5.92307692"></polyline>
+                </g>
+            </g>
+        </g>
+        <g id="Input---address" transform="translate(350.000000, 204.000000)">
+            <g id="Group-3">
+                <text id="Hide-balance" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="35" y="17">Hide balance</tspan>
+                </text>
+                <g id="Check-button" stroke="#FFFFFF">
+                    <rect id="Rectangle-4" x="-0.5" y="-0.5" width="23" height="23" rx="3"></rect>
+                    <polyline id="Shape" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="5.11111111 12.0955675 9.99407625 16.0769231 17.037037 5.92307692"></polyline>
+                </g>
+            </g>
+        </g>
+        <g id="Input---address" transform="translate(350.000000, 246.000000)">
+            <g id="Group-3">
+                <text id="Enable-transfer-with" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="35" y="17">Enable transfer with payment ID (OBSOLETE)</tspan>
+                </text>
+                <g id="Check-button" stroke="#FFFFFF">
+                    <rect id="Rectangle-4" x="-0.5" y="-0.5" width="23" height="23" rx="3"></rect>
+                    <polyline id="Shape" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="5.11111111 12.0955675 9.99407625 16.0769231 17.037037 5.92307692"></polyline>
+                </g>
+            </g>
+        </g>
+        <g id="Input---address" transform="translate(350.000000, 288.000000)">
+            <g id="Group-3">
+                <text id="Lock-wallet-on-inact" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="35" y="17">Lock wallet on inactivity</tspan>
+                </text>
+                <g id="Check-button" stroke="#FFFFFF">
+                    <rect id="Rectangle-4" x="-0.5" y="-0.5" width="23" height="23" rx="3"></rect>
+                    <polyline id="Shape" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="5.11111111 12.0955675 9.99407625 16.0769231 17.037037 5.92307692"></polyline>
+                </g>
+            </g>
+        </g>
+        <text id="After-60-minutes" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="385" y="343">After 60 minutes</tspan>
         </text>
-        <g id="Group-3" transform="translate(350.000000, 90.000000)">
-            <rect id="Rectangle-12" fill="#202020" x="0" y="0" width="625" height="50" rx="3"></rect>
-            <text id="Waiting-on-daemon-sy" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                <tspan x="190" y="32">Waiting on daemon synchronization to finish</tspan>
-            </text>
-            <g id="loader" transform="translate(160.000000, 15.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="1.9047619">
-                <polyline id="Shape" points="19.047619 0.476190476 19.047619 4.76190476 14.7619048 4.76190476"></polyline>
-                <path d="M18.3828571,4.5452381 C16.5985714,1.80904762 13.5104762,0 10,0 C4.47714286,0 0,4.47714286 0,10 C0,15.5228571 4.47714286,20 10,20 C15.5228571,20 20,15.5228571 20,10" id="Shape"></path>
-            </g>
-        </g>
-        <g id="Advanced-options" transform="translate(349.000000, 667.000000)">
-            <text font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                <tspan x="0" y="13">Advanced options</tspan>
-            </text>
-            <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(129.000000, 7.000000) rotate(90.000000) translate(-129.000000, -7.000000) " points="126 1 132 7 126 13"></polyline>
-        </g>
-        <g id="Button-/-Gray-/-Medium" transform="translate(350.000000, 723.000000)">
-            <g id="Button-/-gray-/-medium">
-                <g id="Rectangle-4" opacity="0.149999991">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
-                    <use fill-opacity="0" fill="#FA6800" fill-rule="evenodd" xlink:href="#path-16"></use>
-                </g>
-                <rect id="Rectangle-4" fill="#808080" x="0" y="0" width="153" height="28" rx="3"></rect>
-                <text id="Label" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="21.8432617" y="19">Sweep unmixable</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Button-/-Gray-/-Medium" transform="translate(523.000000, 723.000000)">
-            <g id="Button-/-gray-/-medium">
-                <g id="Rectangle-4" opacity="0.149999991">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
-                    <use fill-opacity="0" fill="#FA6800" fill-rule="evenodd" xlink:href="#path-18"></use>
-                </g>
-                <rect id="Rectangle-4" fill="#808080" x="0" y="0" width="165" height="28" rx="3"></rect>
-                <text id="Label" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="21.0004883" y="19">Sign transaction file</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Button-/-Gray-/-Medium" transform="translate(708.000000, 723.000000)">
-            <g id="Button-/-gray-/-medium">
-                <g id="Rectangle-4" opacity="0.149999991">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-20"></use>
-                    <use fill-opacity="0" fill="#FA6800" fill-rule="evenodd" xlink:href="#path-20"></use>
-                </g>
-                <rect id="Rectangle-4" fill="#808080" x="0" y="0" width="165" height="28" rx="3"></rect>
-                <text id="Label" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="25.4985352" y="19">Export key images</tspan>
-                </text>
-            </g>
-        </g>
-        <g id="Fieldset/Dropdown" transform="translate(681.000000, 238.000000)">
-            <g id="Input/Dropdown" transform="translate(0.000000, 29.000000)">
-                <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="1" opacity="0.25" x="0.5" y="0.5" width="299" height="47" rx="3"></rect>
-                <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" transform="translate(274.000000, 24.000000) rotate(90.000000) translate(-274.000000, -24.000000) " points="270 16 278 24 270 32"></polyline>
-                <text id="Active-option" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="15" y="31">Automatic</tspan>
-                </text>
-            </g>
-            <text id="Label" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
-                <tspan x="0" y="13">Transaction priority</tspan>
-            </text>
-        </g>
-        <g id="Fieldset/Amount" transform="translate(350.000000, 239.000000)">
-            <g>
-                <g id="Input/Amount" transform="translate(0.000000, 28.000000)">
-                    <rect id="Rectangle-4" stroke="#FFFFFF" stroke-width="1" opacity="0.25" x="0.5" y="0.5" width="291" height="47" rx="3"></rect>
-                    <g id="logo" stroke-width="1" fill-rule="evenodd" transform="translate(12.000000, 10.000000)">
-                        <mask id="mask-23" fill="white">
-                            <use xlink:href="#path-22"></use>
-                        </mask>
-                        <use id="Oval-3" fill="#FFFFFF" xlink:href="#path-22"></use>
-                        <g id="xmr" mask="url(#mask-23)" fill-rule="nonzero">
-                            <g transform="translate(-8.960000, -11.200000)" id="Shape">
-                                <path d="M33.8154687,0.24609375 C26.0081319,0.24609375 0.04703125,14.5929858 0.04703125,22.4010938 C0.0445681495,23.9187508 9.21520424,28.3656808 9.69522244,29.805412 L13.9226649,29.805412 L13.9226649,17.908016 L23.1127572,27.099016 L32.3028495,17.908016 L32.3028495,29.805412 L36.5302919,29.805412 C37.0087275,28.3652923 43.1284949,28.6165436 43.1276562,27.099016 C43.1276562,19.290908 30.9200941,11.2 23.1127572,11.2" fill="#FA6800"></path>
-                                <path d="M16.9582984,25.201428 L16.9582984,32.687144 L11.0222594,32.687144 C8.995,39.865 17.9598466,48.335 23.0591492,48.335 C28.1584518,48.335 41.584375,39.816875 35.096039,32.687144 L29.16,32.687144 L29.16,25.201428 L25.1650767,29.21436 L23.0605579,31.326876 L20.956039,29.21436 L16.9582984,25.201428 Z" fill="#4C4C4C"></path>
-                            </g>
-                        </g>
-                    </g>
-                    <g id="Button" stroke-width="1" fill-rule="evenodd" transform="translate(242.000000, 11.000000)">
-                        <rect id="Rectangle-4" fill="#808080" x="0" y="0" width="39" height="26" rx="3"></rect>
-                        <text id="All" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#000000">
-                            <tspan x="9.796875" y="19">All</tspan>
-                        </text>
-                    </g>
-                    <text id="Amount" font-family="RobotoMono-Regular, Roboto Mono" font-size="22" font-weight="normal" fill="#FFFFFF">
-                        <tspan x="50" y="32">0.2767</tspan>
-                    </text>
-                </g>
-                <text id="Label" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="0" y="13">Amount</tspan>
-                </text>
-            </g>
+        <rect id="Rectangle" fill="#202020" x="509" y="336" width="200" height="4" rx="2"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" x="509" y="336" width="126" height="4" rx="2"></rect>
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
         </g>
     </g>
 </svg>

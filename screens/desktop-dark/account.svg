@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>mining</title>
+    <title>account</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="41.2710175%" y1="0%" x2="58.7289825%" y2="100%" id="linearGradient-1">
@@ -37,36 +37,26 @@
             <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
         <circle id="path-11" cx="14" cy="14" r="14"></circle>
-        <rect id="path-13" x="10" y="4" width="150" height="32" rx="2.7"></rect>
-        <filter x="-16.7%" y="-62.5%" width="133.3%" height="256.2%" filterUnits="objectBoundingBox" id="filter-14">
-            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <linearGradient x1="100%" y1="52.2422145%" x2="0%" y2="47.7577855%" id="linearGradient-15">
-            <stop stop-color="#FFFFFF" offset="0%"></stop>
-            <stop stop-color="#000000" offset="100%"></stop>
-        </linearGradient>
-        <rect id="path-16" x="0" y="0" width="170" height="36" rx="3"></rect>
     </defs>
-    <g id="mining" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#000000" x="0" y="0" width="1024" height="768"></rect>
-        <g id="Background">
+        <g id="Background" transform="translate(-1.000000, 0.000000)">
             <rect id="Rectangle-2" fill="url(#linearGradient-1)" fill-rule="evenodd" opacity="0.100000001" x="0" y="50" width="300" height="718"></rect>
             <rect id="Rectangle-2" fill="url(#linearGradient-2)" fill-rule="evenodd" opacity="0.100000001" x="300" y="50" width="725" height="718"></rect>
-            <g id="Nav/Mining" transform="translate(0.000000, 300.000000)">
+            <g id="Nav/Account" transform="translate(0.000000, 300.000000)">
                 <g id="NavItem/Default">
-                    <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
-                        <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
+                    <g id="NavItemBackground/Active">
+                        <rect id="Rectangle-6" fill="url(#linearGradient-3)" fill-rule="evenodd" opacity="0.100000001" x="19" y="1" width="280" height="44"></rect>
+                        <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" points="274 18 280 24 274 30"></polyline>
                     </g>
-                    <g id="NavItemDot/Blue" transform="translate(8.000000, 1.000000)" fill="#00ABFF" fill-rule="evenodd" stroke-width="1">
-                        <g id="Account" transform="translate(12.000000, 18.000000)">
-                            <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
+                    <g id="NavItemDot/BlueActive" transform="translate(8.000000, 1.000000)" fill-rule="evenodd" stroke-width="1">
+                        <g id="Account" transform="translate(12.000000, 12.000000)">
+                            <circle id="Oval-2" fill="#00ABFF" cx="10" cy="10" r="10"></circle>
+                            <path d="M13.6376511,9.242904 L11.2169688,6.79206656 C10.9249858,6.49644619 10.9250337,6.01719933 11.2170758,5.72163874 C11.5091179,5.42607815 11.9825638,5.42612662 12.2745469,5.72174699 L16.5,9.99983784 L12.2737724,14.2782801 C11.9817746,14.5738855 11.5083286,14.5739097 11.2163013,14.2783342 C10.9242739,13.9827587 10.92425,13.5035118 11.2162478,13.2079064 L13.637522,10.7567175 L4.24774499,10.7567175 C3.83477683,10.7567175 3.5,10.4178388 3.5,9.99981077 C3.5,9.5817827 3.83477683,9.242904 4.24774499,9.242904 L13.6376511,9.242904 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
                         </g>
                     </g>
                     <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">Account</tspan>
+                        <tspan x="40" y="16">   Account</tspan>
                     </text>
                 </g>
                 <g id="NavItem/Default" transform="translate(0.000000, 135.000000)">
@@ -85,22 +75,6 @@
                         <tspan x="40" y="16">History</tspan>
                     </text>
                 </g>
-                <g id="NavItem/Default" transform="translate(20.000000, 314.000000)">
-                    <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
-                        <polyline id="Shape" points="254 18 260 24 254 30"></polyline>
-                    </g>
-                    <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
-                        <rect id="Rectangle-3" x="37.3244147" y="0" width="241.675585" height="1"></rect>
-                    </g>
-                    <g id="NavItemDot/Yellow" transform="translate(8.000000, 1.000000)" fill="#FFD87B" fill-rule="evenodd" stroke-width="1">
-                        <g id="Account" transform="translate(12.000000, 18.000000)">
-                            <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
-                        </g>
-                    </g>
-                    <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">Shared RingDB</tspan>
-                    </text>
-                </g>
                 <g id="NavItem/Default" transform="translate(0.000000, 45.000000)">
                     <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
                         <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
@@ -117,30 +91,12 @@
                         <tspan x="40" y="16">Send</tspan>
                     </text>
                 </g>
-                <g id="NavItem/Default" transform="translate(20.000000, 224.000000)">
-                    <g id="NavItemBackground/Active">
-                        <rect id="Rectangle-6" fill="url(#linearGradient-3)" fill-rule="evenodd" opacity="0.100000001" x="19" y="1" width="260" height="44"></rect>
-                        <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" points="254 18 260 24 254 30"></polyline>
-                    </g>
-                    <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
-                        <rect id="Rectangle-3" x="37.3244147" y="0" width="241.675585" height="1"></rect>
-                    </g>
-                    <g id="NavItemDot/YellowActive" transform="translate(8.000000, 1.000000)" fill-rule="evenodd" stroke-width="1">
-                        <g id="Account" transform="translate(12.000000, 12.000000)">
-                            <circle id="Oval-2" fill="#FFD87B" cx="10" cy="10" r="10"></circle>
-                            <path d="M13.6376511,9.242904 L11.2169688,6.79206656 C10.9249858,6.49644619 10.9250337,6.01719933 11.2170758,5.72163874 C11.5091179,5.42607815 11.9825638,5.42612662 12.2745469,5.72174699 L16.5,9.99983784 L12.2737724,14.2782801 C11.9817746,14.5738855 11.5083286,14.5739097 11.2163013,14.2783342 C10.9242739,13.9827587 10.92425,13.5035118 11.2162478,13.2079064 L13.637522,10.7567175 L4.24774499,10.7567175 C3.83477683,10.7567175 3.5,10.4178388 3.5,9.99981077 C3.5,9.5817827 3.83477683,9.242904 4.24774499,9.242904 L13.6376511,9.242904 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
-                        </g>
-                    </g>
-                    <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">   Mining</tspan>
-                    </text>
-                </g>
-                <g id="NavItem/Default" transform="translate(20.000000, 359.000000)">
+                <g id="NavItem/Default" transform="translate(0.000000, 180.000000)">
                     <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
-                        <polyline id="Shape" points="254 18 260 24 254 30"></polyline>
+                        <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
                     </g>
                     <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
-                        <rect id="Rectangle-3" x="37.3244147" y="0" width="241.675585" height="1"></rect>
+                        <rect id="Rectangle-3" x="40" y="0" width="259" height="1"></rect>
                     </g>
                     <g id="NavItemDot/Yellow" transform="translate(8.000000, 1.000000)" fill="#FFD87B" fill-rule="evenodd" stroke-width="1">
                         <g id="Account" transform="translate(12.000000, 18.000000)">
@@ -148,7 +104,7 @@
                         </g>
                     </g>
                     <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">Sign/verify</tspan>
+                        <tspan x="40" y="16">Advanced</tspan>
                     </text>
                 </g>
                 <g id="NavItem/Default" transform="translate(0.000000, 90.000000)">
@@ -167,23 +123,7 @@
                         <tspan x="40" y="16">Receive</tspan>
                     </text>
                 </g>
-                <g id="NavItem/Default" transform="translate(20.000000, 269.000000)">
-                    <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
-                        <polyline id="Shape" points="254 18 260 24 254 30"></polyline>
-                    </g>
-                    <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
-                        <rect id="Rectangle-3" x="37.3244147" y="0" width="241.675585" height="1"></rect>
-                    </g>
-                    <g id="NavItemDot/Yellow" transform="translate(8.000000, 1.000000)" fill="#FFD87B" fill-rule="evenodd" stroke-width="1">
-                        <g id="Account" transform="translate(12.000000, 18.000000)">
-                            <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
-                        </g>
-                    </g>
-                    <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">Prove/check</tspan>
-                    </text>
-                </g>
-                <g id="NavItem/Default" transform="translate(0.000000, 404.000000)">
+                <g id="NavItem/Default" transform="translate(0.000000, 225.000000)">
                     <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
                         <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
                     </g>
@@ -197,22 +137,6 @@
                     </g>
                     <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
                         <tspan x="40" y="16">Settings</tspan>
-                    </text>
-                </g>
-                <g id="NavItem/Default" transform="translate(0.000000, 180.000000)">
-                    <g id="NavItemBackground/Default" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
-                        <polyline id="Shape" points="274 18 280 24 274 30"></polyline>
-                    </g>
-                    <g id="NavItemSeparator/Default" fill="#FFFFFF" fill-rule="evenodd" opacity="0.149999991">
-                        <rect id="Rectangle-3" x="40" y="0" width="259" height="1"></rect>
-                    </g>
-                    <g id="NavItemDot/Yellow" transform="translate(8.000000, 1.000000)" fill="#FFD87B" fill-rule="evenodd" stroke-width="1">
-                        <g id="Account" transform="translate(12.000000, 18.000000)">
-                            <circle id="Oval-2" cx="4" cy="4" r="4"></circle>
-                        </g>
-                    </g>
-                    <text id="Label" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                        <tspan x="40" y="16">Advanced</tspan>
                     </text>
                 </g>
             </g>
@@ -326,51 +250,181 @@
                 </g>
             </g>
         </g>
-        <g id="Input---address" transform="translate(349.000000, 369.000000)">
-            <text id="CPU-Threads" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                <tspan x="0" y="13">CPU Threads</tspan>
-            </text>
-            <g id="Group-3" transform="translate(130.000000, 41.000000)">
-                <text id="Enable-background-mi" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                    <tspan x="35" y="17">Enable background mining (experimental)</tspan>
-                </text>
-                <g id="Check-button" stroke="#FFFFFF">
-                    <rect id="Rectangle-4" x="-0.5" y="-0.5" width="23" height="23" rx="3"></rect>
-                    <polyline id="Shape" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="5.11111111 12.0955675 9.99407625 16.0769231 17.037037 5.92307692"></polyline>
+        <text id="Accounts" font-family="Roboto-Regular, Roboto" font-size="24" font-weight="normal" fill="#FFFFFF">
+            <tspan x="349" y="246">Accounts</tspan>
+        </text>
+        <text id="Balance-All" font-family="Roboto-Regular, Roboto" font-size="24" font-weight="normal" fill="#FFFFFF">
+            <tspan x="349" y="113">Balance All</tspan>
+        </text>
+        <rect id="Rectangle-10" fill="#404040" x="349" y="262" width="625" height="1" rx="0.5"></rect>
+        <rect id="Rectangle-10" fill="#404040" x="349" y="129" width="625" height="1" rx="0.5"></rect>
+        <text id="Total-balance:-Total" opacity="0.5" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="24" fill="#FFFFFF">
+            <tspan x="350" y="161">Total balance: </tspan>
+            <tspan x="350" y="185">Total unlocked balance:</tspan>
+        </text>
+        <text id="9.377160181000-7.476" font-family="RobotoMono-Light, Roboto Mono Light" font-size="16" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+            <tspan x="839.578125" y="162">9.377160181000</tspan>
+            <tspan x="839.578125" y="186">7.476252256000</tspan>
+        </text>
+        <g id="AccountItem/Active" transform="translate(349.000000, 262.000000)">
+            <rect id="Rectangle-10" fill="#404040" fill-rule="evenodd" x="0" y="0" width="625" height="1" rx="0.5"></rect>
+            <g id="Group-4" opacity="0.5" stroke-width="1" fill-rule="evenodd" transform="translate(555.000000, 11.000000)">
+                <g id="Group-2" transform="translate(35.000000, 0.000000)">
+                    <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="30" height="30"></rect>
+                    <g id="rename" transform="translate(7.000000, 4.000000)">
+                        <path d="M4,1 L4,3 L2,3 L2,19 L14,19 L14,3 L12,3 L12,1 L14.5,1 C15.3284271,1 16,1.67157288 16,2.5 L16,19.5 C16,20.3284271 15.3284271,21 14.5,21 L1.5,21 C0.671572875,21 1.01453063e-16,20.3284271 0,19.5 L0,2.5 C-1.01453063e-16,1.67157288 0.671572875,1 1.5,1 L4,1 Z M6,0 L10,0 C10.5522847,-1.01453063e-16 11,0.44771525 11,1 L11,3 C11,3.55228475 10.5522847,4 10,4 L6,4 C5.44771525,4 5,3.55228475 5,3 L5,1 C5,0.44771525 5.44771525,1.01453063e-16 6,0 Z" id="Rectangle-5" fill="#FFFFFF"></path>
+                        <polyline id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="4.40909091 11.6339869 7.28363636 14.0740741 11.3636364 8.14814815"></polyline>
+                    </g>
+                </g>
+                <g id="Group-3">
+                    <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="30" height="30"></rect>
+                    <g id="rename" transform="translate(4.000000, 5.000000)">
+                        <path d="M7.64212285,20 L1.5,20 C0.671572875,20 1.01453063e-16,19.3284271 0,18.5 L0,1.5 C-1.01453063e-16,0.671572875 0.671572875,1.52179594e-16 1.5,0 L14.5,0 C15.3284271,-1.52179594e-16 16,0.671572875 16,1.5 L16,7.87191977 L14,7.87191977 L14,2 L2,2 L2,18 L7.64212285,18 L7.64212285,20 Z M4,4.61538462 L12,4.61538462 L12,6.61538462 L4,6.61538462 L4,4.61538462 Z M4,13.8461538 L9,13.8461538 L9,15.8461538 L4,15.8461538 L4,13.8461538 Z M4,9.23076923 L12,9.23076923 L12,11.2307692 L4,11.2307692 L4,9.23076923 Z" id="Rectangle-5" fill="#FFFFFF"></path>
+                        <g id="pencil" transform="translate(9.645161, 5.769231)">
+                            <g id="Group">
+                                <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.08" stroke-linecap="round" stroke-linejoin="round" points="12.1261935 4.26461538 3.68593548 12.96 0.480774194 13.8461538 1.38890323 10.5230769 9.77574194 1.82769231"></polyline>
+                                <path d="M12.339871,4.76307692 C12.339871,4.76307692 12.7138065,4.37538462 12.7138065,4.37538462 C13.5685161,3.48923077 13.5685161,2.04923077 12.7138065,1.16307692 C11.8590968,0.276923077 10.4701935,0.276923077 9.61548387,1.16307692 C9.61548387,1.16307692 9.24154839,1.55076923 9.24154839,1.55076923 L12.339871,4.76307692 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="1.44232258 10.4676923 3.79277419 12.8492308 0.694451613 13.6246154"></polygon>
+                            </g>
+                        </g>
+                    </g>
                 </g>
             </g>
-            <text id="1" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" fill="#FFFFFF">
-                <tspan x="15" y="60">1</tspan>
+            <text id="Amount" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="49" fill="#FFFFFF">
+                <tspan x="428" y="18">9.377 XMR</tspan>
             </text>
-            <rect id="Rectangle-4" stroke="#FFFFFF" opacity="0.25" x="0.5" y="28.5" width="99" height="47" rx="3"></rect>
-        </g>
-        <text id="Solo-mining" font-family="Roboto-Regular, Roboto" font-size="32" font-weight="normal" fill="#FFFFFF">
-            <tspan x="349" y="201">Solo mining</tspan>
-        </text>
-        <text id="Mining-with-your-com" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="20" fill="#FFFFFF">
-            <tspan x="349" y="250">Mining with your computer helps strengthen the Monero network. The more that people mine, the </tspan>
-            <tspan x="349" y="270">harder it is for the network to be attacked, and every little bit helps.</tspan>
-            <tspan x="349" y="290"></tspan>
-            <tspan x="349" y="310">Mining also gives you a small chance to earn some Monero. Your computer will create hashes </tspan>
-            <tspan x="349" y="330">looking for block solutions. If you find a block, you will get the associated reward. Good luck!</tspan>
-        </text>
-        <g id="Button---send" transform="translate(349.000000, 475.000000)">
-            <g id="Rectangle-4" opacity="0.149999991">
-                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
-                <use fill-opacity="0" fill="#FA6800" fill-rule="evenodd" xlink:href="#path-13"></use>
-            </g>
-            <g id="Rectangle-4">
-                <use fill="#FA6800" xlink:href="#path-16"></use>
-                <use fill-opacity="0.01" fill="url(#linearGradient-15)" style="mix-blend-mode: hard-light;" xlink:href="#path-16"></use>
-            </g>
-            <text id="Start-mining" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold" fill="#FFFFFF">
-                <tspan x="41.0859375" y="24">Start mining</tspan>
+            <text id="Address" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="49" fill="#FFFFFF">
+                <tspan x="263" y="18">869K…0Ch9</tspan>
+            </text>
+            <text id="Name" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="49" fill="#FFFFFF">
+                <tspan x="31" y="16">Primary address</tspan>
+            </text>
+            <text id="Number" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="49" fill="#FFFFFF">
+                <tspan x="0" y="16">#0</tspan>
             </text>
         </g>
-        <g id="Group-3" transform="translate(350.000000, 90.000000)">
-            <rect id="Rectangle-12" fill="#202020" x="0" y="0" width="625" height="50" rx="3"></rect>
-            <text id="You-need-to-use-a-lo" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                <tspan x="198" y="31">You need to use a local node to mine.</tspan>
+        <g id="AccountItem/Default" transform="translate(349.000000, 313.000000)">
+            <g>
+                <rect id="Rectangle-10" fill="#404040" x="0" y="0" width="625" height="1" rx="0.5"></rect>
+                <g id="Group-4" opacity="0.5" transform="translate(555.000000, 10.000000)">
+                    <g id="Group-2" transform="translate(35.000000, 0.000000)">
+                        <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="30" height="30"></rect>
+                        <g id="rename" transform="translate(7.000000, 4.000000)">
+                            <path d="M4,1 L4,3 L2,3 L2,19 L14,19 L14,3 L12,3 L12,1 L14.5,1 C15.3284271,1 16,1.67157288 16,2.5 L16,19.5 C16,20.3284271 15.3284271,21 14.5,21 L1.5,21 C0.671572875,21 1.01453063e-16,20.3284271 0,19.5 L0,2.5 C-1.01453063e-16,1.67157288 0.671572875,1 1.5,1 L4,1 Z M6,0 L10,0 C10.5522847,-1.01453063e-16 11,0.44771525 11,1 L11,3 C11,3.55228475 10.5522847,4 10,4 L6,4 C5.44771525,4 5,3.55228475 5,3 L5,1 C5,0.44771525 5.44771525,1.01453063e-16 6,0 Z" id="Rectangle-5" fill="#FFFFFF"></path>
+                            <polyline id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="4.40909091 11.6339869 7.28363636 14.0740741 11.3636364 8.14814815"></polyline>
+                        </g>
+                    </g>
+                    <g id="Group-3">
+                        <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="30" height="30"></rect>
+                        <g id="rename" transform="translate(4.000000, 5.000000)">
+                            <path d="M7.64212285,20 L1.5,20 C0.671572875,20 1.01453063e-16,19.3284271 0,18.5 L0,1.5 C-1.01453063e-16,0.671572875 0.671572875,1.52179594e-16 1.5,0 L14.5,0 C15.3284271,-1.52179594e-16 16,0.671572875 16,1.5 L16,7.87191977 L14,7.87191977 L14,2 L2,2 L2,18 L7.64212285,18 L7.64212285,20 Z M4,4.61538462 L12,4.61538462 L12,6.61538462 L4,6.61538462 L4,4.61538462 Z M4,13.8461538 L9,13.8461538 L9,15.8461538 L4,15.8461538 L4,13.8461538 Z M4,9.23076923 L12,9.23076923 L12,11.2307692 L4,11.2307692 L4,9.23076923 Z" id="Rectangle-5" fill="#FFFFFF"></path>
+                            <g id="pencil" transform="translate(9.645161, 5.769231)">
+                                <g id="Group">
+                                    <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.08" stroke-linecap="round" stroke-linejoin="round" points="12.1261935 4.26461538 3.68593548 12.96 0.480774194 13.8461538 1.38890323 10.5230769 9.77574194 1.82769231"></polyline>
+                                    <path d="M12.339871,4.76307692 C12.339871,4.76307692 12.7138065,4.37538462 12.7138065,4.37538462 C13.5685161,3.48923077 13.5685161,2.04923077 12.7138065,1.16307692 C11.8590968,0.276923077 10.4701935,0.276923077 9.61548387,1.16307692 C9.61548387,1.16307692 9.24154839,1.55076923 9.24154839,1.55076923 L12.339871,4.76307692 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="1.44232258 10.4676923 3.79277419 12.8492308 0.694451613 13.6246154"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Amount" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="428.585938" y="18">1.764 XMR</tspan>
+                </text>
+                <text id="Address" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="263.585938" y="18">869K…0Ch9</tspan>
+                </text>
+                <text id="Name" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="31" y="16">Pizza delivery place</tspan>
+                </text>
+                <text id="Number" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="49" fill="#4C4C4C">
+                    <tspan x="0" y="16">#1</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="AccountItem/Default" transform="translate(349.000000, 363.000000)">
+            <g>
+                <rect id="Rectangle-10" fill="#404040" x="0" y="0" width="625" height="1" rx="0.5"></rect>
+                <g id="Group-4" opacity="0.5" transform="translate(555.000000, 10.000000)">
+                    <g id="Group-2" transform="translate(35.000000, 0.000000)">
+                        <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="30" height="30"></rect>
+                        <g id="rename" transform="translate(7.000000, 4.000000)">
+                            <path d="M4,1 L4,3 L2,3 L2,19 L14,19 L14,3 L12,3 L12,1 L14.5,1 C15.3284271,1 16,1.67157288 16,2.5 L16,19.5 C16,20.3284271 15.3284271,21 14.5,21 L1.5,21 C0.671572875,21 1.01453063e-16,20.3284271 0,19.5 L0,2.5 C-1.01453063e-16,1.67157288 0.671572875,1 1.5,1 L4,1 Z M6,0 L10,0 C10.5522847,-1.01453063e-16 11,0.44771525 11,1 L11,3 C11,3.55228475 10.5522847,4 10,4 L6,4 C5.44771525,4 5,3.55228475 5,3 L5,1 C5,0.44771525 5.44771525,1.01453063e-16 6,0 Z" id="Rectangle-5" fill="#FFFFFF"></path>
+                            <polyline id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="4.40909091 11.6339869 7.28363636 14.0740741 11.3636364 8.14814815"></polyline>
+                        </g>
+                    </g>
+                    <g id="Group-3">
+                        <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="30" height="30"></rect>
+                        <g id="rename" transform="translate(4.000000, 5.000000)">
+                            <path d="M7.64212285,20 L1.5,20 C0.671572875,20 1.01453063e-16,19.3284271 0,18.5 L0,1.5 C-1.01453063e-16,0.671572875 0.671572875,1.52179594e-16 1.5,0 L14.5,0 C15.3284271,-1.52179594e-16 16,0.671572875 16,1.5 L16,7.87191977 L14,7.87191977 L14,2 L2,2 L2,18 L7.64212285,18 L7.64212285,20 Z M4,4.61538462 L12,4.61538462 L12,6.61538462 L4,6.61538462 L4,4.61538462 Z M4,13.8461538 L9,13.8461538 L9,15.8461538 L4,15.8461538 L4,13.8461538 Z M4,9.23076923 L12,9.23076923 L12,11.2307692 L4,11.2307692 L4,9.23076923 Z" id="Rectangle-5" fill="#FFFFFF"></path>
+                            <g id="pencil" transform="translate(9.645161, 5.769231)">
+                                <g id="Group">
+                                    <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.08" stroke-linecap="round" stroke-linejoin="round" points="12.1261935 4.26461538 3.68593548 12.96 0.480774194 13.8461538 1.38890323 10.5230769 9.77574194 1.82769231"></polyline>
+                                    <path d="M12.339871,4.76307692 C12.339871,4.76307692 12.7138065,4.37538462 12.7138065,4.37538462 C13.5685161,3.48923077 13.5685161,2.04923077 12.7138065,1.16307692 C11.8590968,0.276923077 10.4701935,0.276923077 9.61548387,1.16307692 C9.61548387,1.16307692 9.24154839,1.55076923 9.24154839,1.55076923 L12.339871,4.76307692 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="1.44232258 10.4676923 3.79277419 12.8492308 0.694451613 13.6246154"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Amount" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="428.585938" y="18">0.117 XMR</tspan>
+                </text>
+                <text id="Address" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="263.585938" y="18">869K…0Ch9</tspan>
+                </text>
+                <text id="Name" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="31" y="16">Donut shop</tspan>
+                </text>
+                <text id="Number" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="49" fill="#4C4C4C">
+                    <tspan x="0" y="16">#2</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="AccountItem/Default" transform="translate(349.000000, 413.000000)">
+            <g>
+                <rect id="Rectangle-10" fill="#404040" x="0" y="0" width="625" height="1" rx="0.5"></rect>
+                <g id="Group-4" opacity="0.5" transform="translate(555.000000, 10.000000)">
+                    <g id="Group-2" transform="translate(35.000000, 0.000000)">
+                        <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="30" height="30"></rect>
+                        <g id="rename" transform="translate(7.000000, 4.000000)">
+                            <path d="M4,1 L4,3 L2,3 L2,19 L14,19 L14,3 L12,3 L12,1 L14.5,1 C15.3284271,1 16,1.67157288 16,2.5 L16,19.5 C16,20.3284271 15.3284271,21 14.5,21 L1.5,21 C0.671572875,21 1.01453063e-16,20.3284271 0,19.5 L0,2.5 C-1.01453063e-16,1.67157288 0.671572875,1 1.5,1 L4,1 Z M6,0 L10,0 C10.5522847,-1.01453063e-16 11,0.44771525 11,1 L11,3 C11,3.55228475 10.5522847,4 10,4 L6,4 C5.44771525,4 5,3.55228475 5,3 L5,1 C5,0.44771525 5.44771525,1.01453063e-16 6,0 Z" id="Rectangle-5" fill="#FFFFFF"></path>
+                            <polyline id="Shape" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="4.40909091 11.6339869 7.28363636 14.0740741 11.3636364 8.14814815"></polyline>
+                        </g>
+                    </g>
+                    <g id="Group-3">
+                        <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="30" height="30"></rect>
+                        <g id="rename" transform="translate(4.000000, 5.000000)">
+                            <path d="M7.64212285,20 L1.5,20 C0.671572875,20 1.01453063e-16,19.3284271 0,18.5 L0,1.5 C-1.01453063e-16,0.671572875 0.671572875,1.52179594e-16 1.5,0 L14.5,0 C15.3284271,-1.52179594e-16 16,0.671572875 16,1.5 L16,7.87191977 L14,7.87191977 L14,2 L2,2 L2,18 L7.64212285,18 L7.64212285,20 Z M4,4.61538462 L12,4.61538462 L12,6.61538462 L4,6.61538462 L4,4.61538462 Z M4,13.8461538 L9,13.8461538 L9,15.8461538 L4,15.8461538 L4,13.8461538 Z M4,9.23076923 L12,9.23076923 L12,11.2307692 L4,11.2307692 L4,9.23076923 Z" id="Rectangle-5" fill="#FFFFFF"></path>
+                            <g id="pencil" transform="translate(9.645161, 5.769231)">
+                                <g id="Group">
+                                    <polyline id="Shape" stroke="#FFFFFF" stroke-width="1.08" stroke-linecap="round" stroke-linejoin="round" points="12.1261935 4.26461538 3.68593548 12.96 0.480774194 13.8461538 1.38890323 10.5230769 9.77574194 1.82769231"></polyline>
+                                    <path d="M12.339871,4.76307692 C12.339871,4.76307692 12.7138065,4.37538462 12.7138065,4.37538462 C13.5685161,3.48923077 13.5685161,2.04923077 12.7138065,1.16307692 C11.8590968,0.276923077 10.4701935,0.276923077 9.61548387,1.16307692 C9.61548387,1.16307692 9.24154839,1.55076923 9.24154839,1.55076923 L12.339871,4.76307692 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="1.44232258 10.4676923 3.79277419 12.8492308 0.694451613 13.6246154"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Amount" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="428.585938" y="18">4.365 XMR</tspan>
+                </text>
+                <text id="Address" font-family="RobotoMono-Regular, Roboto Mono" font-size="16" font-weight="normal" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="263.585938" y="18">869K…0Ch9</tspan>
+                </text>
+                <text id="Name" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="49" fill="#FFFFFF">
+                    <tspan x="31" y="16">Taj Mahal</tspan>
+                </text>
+                <text id="Number" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="49" fill="#4C4C4C">
+                    <tspan x="0" y="16">#3</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="ListItem/Create" transform="translate(349.000000, 463.000000)">
+            <rect id="Rectangle-10" fill="#404040" fill-rule="evenodd" x="0" y="0" width="625" height="1" rx="0.5"></rect>
+            <path d="M9,24 L6,24 C5.44771525,24 5,24.4477153 5,25 C5,25.5522847 5.44771525,26 6,26 L9,26 L9,29 C9,29.5522847 9.44771525,30 10,30 C10.5522847,30 11,29.5522847 11,29 L11,26 L14,26 C14.5522847,26 15,25.5522847 15,25 C15,24.4477153 14.5522847,24 14,24 L11,24 L11,21 C11,20.4477153 10.5522847,20 10,20 C9.44771525,20 9,20.4477153 9,21 L9,24 Z M10,15 C15.5143478,15 20,19.486087 20,25 C20,30.5143478 15.5143478,35 10,35 C4.48608696,35 0,30.5143478 0,25 C0,19.486087 4.48608696,15 10,15 Z" id="plus-in-circle-medium-white" fill="#FFFFFF" fill-rule="nonzero" opacity="0.5"></path>
+            <text id="Label" opacity="0.5" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" fill="#FFFFFF">
+                <tspan x="31" y="30">Create new account</tspan>
             </text>
         </g>
     </g>

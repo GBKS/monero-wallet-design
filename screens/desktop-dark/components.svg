@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1224px" height="1064px" viewBox="0 0 1224 1064" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
     <title>components</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -15,7 +15,7 @@
             <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <linearGradient x1="31.4460666%" y1="0%" x2="68.8736728%" y2="100%" id="linearGradient-4">
+        <linearGradient x1="31.4460666%" y1="28.6242604%" x2="68.8736728%" y2="71.3757396%" id="linearGradient-4">
             <stop stop-color="#FA6800" offset="0%"></stop>
             <stop stop-color="#FA6800" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
@@ -27,7 +27,7 @@
         <path d="M12.819426,-5.17920154e-16 L247.180574,5.17920154e-16 C251.638168,-3.00926524e-16 253.254599,0.464128056 254.884229,1.33566352 C256.513858,2.20719898 257.792801,3.48614185 258.664336,5.11577148 C259.535872,6.74540111 260,8.3618323 260,12.819426 L260,157.180574 C260,161.638168 259.535872,163.254599 258.664336,164.884229 C257.792801,166.513858 256.513858,167.792801 254.884229,168.664336 C253.254599,169.535872 251.638168,170 247.180574,170 L12.819426,170 C8.3618323,170 6.74540111,169.535872 5.11577148,168.664336 C3.48614185,167.792801 2.20719898,166.513858 1.33566352,164.884229 C0.464128056,163.254599 2.00617683e-16,161.638168 -3.45280103e-16,157.180574 L3.45280103e-16,12.819426 C-2.00617683e-16,8.3618323 0.464128056,6.74540111 1.33566352,5.11577148 C2.20719898,3.48614185 3.48614185,2.20719898 5.11577148,1.33566352 C6.74540111,0.464128056 8.3618323,3.00926524e-16 12.819426,-5.17920154e-16 Z" id="path-8"></path>
         <circle id="path-10" cx="14" cy="14" r="14"></circle>
         <circle id="path-12" cx="50" cy="50" r="50"></circle>
-        <linearGradient x1="100%" y1="100%" x2="0%" y2="1.72254642e-14%" id="linearGradient-14">
+        <linearGradient x1="100%" y1="50.1192093%" x2="0%" y2="49.8807907%" id="linearGradient-14">
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
         </linearGradient>
@@ -42,33 +42,42 @@
             <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
+        <rect id="path-20" x="0" y="0" width="360" height="50" rx="5"></rect>
+        <filter x="-20.4%" y="-117.0%" width="140.8%" height="394.0%" filterUnits="objectBoundingBox" id="filter-21">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="15" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
     <g id="components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#000000" x="0" y="0" width="1224" height="1064"></rect>
-        <g id="Menu" transform="translate(460.000000, 567.000000)">
+        <g id="Menu" transform="translate(460.000000, 568.000000)">
             <g id="Group">
-                <rect id="Rectangle-6" fill="url(#linearGradient-1)" opacity="0.100000001" x="0" y="2" width="280" height="44"></rect>
-                <text id="Send" font-family="SFProDisplay-Medium, SF Pro Display" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
+                <rect id="Rectangle-6" fill="url(#linearGradient-1)" opacity="0.100000001" x="0" y="1" width="280" height="44"></rect>
+                <text id="Send" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
                     <tspan x="31" y="15">Send</tspan>
                 </text>
-                <path d="M11,14 C5.48608696,14 1,18.486087 1,24 C1,29.5143478 5.48608696,34 11,34 C16.5143478,34 21,29.5143478 21,24 C21,18.486087 16.5143478,14 11,14 Z" id="Shape" fill="#FA6800" fill-rule="nonzero"></path>
-                <path d="M14.6376511,23.242904 L12.2169688,20.7920666 C11.9249858,20.4964462 11.9250337,20.0171993 12.2170758,19.7216387 C12.5091179,19.4260782 12.9825638,19.4261266 13.2745469,19.721747 L17.5,23.9998378 L13.2737724,28.2782801 C12.9817746,28.5738855 12.5083286,28.5739097 12.2163013,28.2783342 C11.9242739,27.9827587 11.92425,27.5035118 12.2162478,27.2079064 L14.637522,24.7567175 L5.24774499,24.7567175 C4.83477683,24.7567175 4.5,24.4178388 4.5,23.9998108 C4.5,23.5817827 4.83477683,23.242904 5.24774499,23.242904 L14.6376511,23.242904 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
-                <g id="right" transform="translate(255.000000, 18.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                <path d="M11,13 C5.48608696,13 1,17.486087 1,23 C1,28.5143478 5.48608696,33 11,33 C16.5143478,33 21,28.5143478 21,23 C21,17.486087 16.5143478,13 11,13 Z" id="Shape" fill="#FA6800" fill-rule="nonzero"></path>
+                <path d="M14.6376511,22.242904 L12.2169688,19.7920666 C11.9249858,19.4964462 11.9250337,19.0171993 12.2170758,18.7216387 C12.5091179,18.4260782 12.9825638,18.4261266 13.2745469,18.721747 L17.5,22.9998378 L13.2737724,27.2782801 C12.9817746,27.5738855 12.5083286,27.5739097 12.2163013,27.2783342 C11.9242739,26.9827587 11.92425,26.5035118 12.2162478,26.2079064 L14.637522,23.7567175 L5.24774499,23.7567175 C4.83477683,23.7567175 4.5,23.4178388 4.5,22.9998108 C4.5,22.5817827 4.83477683,22.242904 5.24774499,22.242904 L14.6376511,22.242904 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="right" transform="translate(255.000000, 17.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
                     <polyline id="Shape" points="0 0 6 6 0 12"></polyline>
                 </g>
-                <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.149999991" x="21" y="1" width="259" height="1"></rect>
+                <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.149999991" x="21" y="0" width="259" height="1"></rect>
             </g>
             <g id="Group" transform="translate(1.000000, 45.000000)">
-                <text id="Address-book" font-family="SFProDisplay-Medium, SF Pro Display" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
-                    <tspan x="20" y="15">Address book</tspan>
+                <text id="Address-book" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" line-spacing="44" fill="#FFFFFF">
+                    <tspan x="20" y="15">Address </tspan>
+                    <tspan x="20" y="59">book</tspan>
                 </text>
-                <circle id="Oval-2" fill="#FF4D39" cx="4" cy="24" r="4"></circle>
-                <g id="right" transform="translate(254.000000, 18.000000)" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                <circle id="Oval-2" fill="#FF4D39" cx="4" cy="23" r="4"></circle>
+                <g id="right" transform="translate(254.000000, 17.000000)" opacity="0.25" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
                     <polyline id="Shape" points="0 0 6 6 0 12"></polyline>
                 </g>
-                <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.149999991" x="20" y="1" width="259" height="1"></rect>
+                <rect id="Rectangle-3" fill="#FFFFFF" opacity="0.149999991" x="20" y="0" width="259" height="1"></rect>
             </g>
-            <g id="Group" transform="translate(21.000000, 91.000000)" fill="#FFFFFF" opacity="0.149999991">
+            <g id="Group" transform="translate(21.000000, 90.000000)" fill="#FFFFFF" opacity="0.149999991">
                 <rect id="Rectangle-3" x="0" y="0" width="259" height="1"></rect>
             </g>
         </g>
@@ -86,30 +95,23 @@
                         <use fill="#4C4C4C" xlink:href="#path-5"></use>
                         <use fill-opacity="0.2" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
                     </g>
-                    <g id="Copy" mask="url(#mask-6)" font-family="SFProText-Regular, SF Pro Text" font-weight="normal">
+                    <g id="Copy" mask="url(#mask-6)" font-weight="normal">
                         <g transform="translate(20.000000, 66.000000)">
-                            <text id="Your-balance" font-size="12">
+                            <text id="Your-balance" font-family="Roboto-Regular, Roboto" font-size="12">
                                 <tspan x="0" y="11" fill="#FFFFFF">Your balance</tspan>
                             </text>
-                            <text id="Unlocked-balance" font-size="12">
+                            <text id="Unlocked-balance" font-family="Roboto-Regular, Roboto" font-size="12">
                                 <tspan x="0" y="61" fill="#FFFFFF">Unlocked balance</tspan>
                             </text>
-                            <text id="9.377160181" font-size="20">
+                            <text id="9.377160181" font-family="RobotoMono-Light, Roboto Mono Light" font-size="20">
                                 <tspan x="0" y="34" fill="#FFFFFF">9.377160181</tspan>
                             </text>
-                            <text id="0.17615" font-size="20">
+                            <text id="0.17615" font-family="RobotoMono-Light, Roboto Mono Light" font-size="20">
                                 <tspan x="0" y="84" fill="#FFFFFF">0.17615</tspan>
                             </text>
                         </g>
                     </g>
                     <path d="M204.226939,-34 C280.479602,-34 342.315789,28.692 342.315789,106 C342.32398,121.025025 339.946041,135.953389 335.273258,150.212 L293.984692,150.212 L293.984692,32.416 L204.226939,123.416 L114.469186,32.416 L114.469186,150.212 L73.1806202,150.212 C68.4923805,135.957236 66.1140323,121.026307 66.1380889,106 C66.1380889,28.692 127.974276,-34 204.226939,-34 Z M183.596465,144.36 L204.226939,165.276 L224.857413,144.36 L264.019411,104.628 L264.019411,178.744 L322.210053,178.744 C297.989269,219.064 254.215103,246 204.226939,246 C154.238775,246 110.46461,219.064 86.2162077,178.744 L144.406849,178.744 L144.406849,104.628 L183.596465,144.36 Z" id="Shape" fill="url(#radialGradient-7)" fill-rule="nonzero" opacity="0.149999991" mask="url(#mask-6)"></path>
-                    <g id="lock" mask="url(#mask-6)">
-                        <g transform="translate(221.000000, 74.000000)">
-                            <path d="M12.96,7.56 C12.96,7.56 12.96,5.796 12.96,5.4 C12.96,3.204 11.196,1.44 9,1.44 C6.804,1.44 5.04,3.204 5.04,5.4 C5.04,5.796 5.04,7.56 5.04,7.56" id="Shape" stroke="#FFFFFF" stroke-width="0.72" fill="none" stroke-linecap="round"></path>
-                            <rect id="Rectangle-path" stroke="none" fill="none" x="0" y="0" width="18" height="18"></rect>
-                            <path d="M14.76,7.2 L3.24,7.2 C2.628,7.2 2.16,7.668 2.16,8.28 L2.16,16.92 C2.16,17.532 2.628,18 3.24,18 L14.76,18 C15.372,18 15.84,17.532 15.84,16.92 L15.84,8.28 C15.84,7.668 15.372,7.2 14.76,7.2 Z M9.72,12.672 L9.72,13.68 C9.72,14.076 9.396,14.4 9,14.4 C8.604,14.4 8.28,14.076 8.28,13.68 L8.28,12.672 C8.064,12.492 7.92,12.204 7.92,11.88 C7.92,11.268 8.388,10.8 9,10.8 C9.612,10.8 10.08,11.268 10.08,11.88 C10.08,12.204 9.936,12.492 9.72,12.672 Z" id="Shape" stroke="none" fill="#FFFFFF" fill-rule="nonzero"></path>
-                        </g>
-                    </g>
                     <text id="MONERO" mask="url(#mask-6)" font-family="CenturyGothic-Bold, Century Gothic" font-size="20.48" font-weight="bold" letter-spacing="-0.96" fill="#FFFFFF">
                         <tspan x="60" y="44">MONER</tspan>
                         <tspan x="128.51" y="44" letter-spacing="-0.64">O</tspan>
@@ -119,7 +121,7 @@
                             <g>
                                 <g transform="translate(0.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero" id="Shape">
                                     <path d="M13.8226939,0 C6.1974276,0 0.013808885,6.2692 0.013808885,14 C0.0114032251,15.5026307 0.249238053,16.9957236 0.718062022,18.4212 L4.84691865,18.4212 L4.84691865,6.6416 L13.8226939,15.7416 L22.7984692,6.6416 L22.7984692,18.4212 L26.9273258,18.4212 C27.3946041,16.9953389 27.632398,15.5025025 27.6315789,14 C27.6315789,6.2692 21.4479602,0 13.8226939,0"></path>
-                                    <path d="M11.7596465,17.836 L7.84068492,13.8628 L7.84068492,21.2744 L2.02162077,21.2744 C4.44646098,25.3064 8.82387753,28 13.8226939,28 C18.8215103,28 23.1989269,25.3064 25.6210053,21.2744 L19.8019411,21.2744 L19.8019411,13.8628 L15.8857413,17.836 L13.8226939,19.9276 L11.7596465,17.836 Z"></path>
+                                    <path d="M11.7596465,17.836 L7.84068492,13.8628 L7.84068492,21.2744 L2.02162077,21.2744 C4.44646098,25.3064 8.82387753,28 13.8226939,28 C18.8215103,28 23.1989269,25.3064 25.6210053,21.2744 L19.8019411,21.2744 L19.8019411,13.8628 L15.8857413,17.836 L13.8226939,19.9276 L11.7596465,17.836 L11.7596465,17.836 Z"></path>
                                 </g>
                             </g>
                         </g>
@@ -146,7 +148,7 @@
                         <g>
                             <g transform="translate(0.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero" id="Shape">
                                 <path d="M13.8226939,0 C6.1974276,0 0.013808885,6.2692 0.013808885,14 C0.0114032251,15.5026307 0.249238053,16.9957236 0.718062022,18.4212 L4.84691865,18.4212 L4.84691865,6.6416 L13.8226939,15.7416 L22.7984692,6.6416 L22.7984692,18.4212 L26.9273258,18.4212 C27.3946041,16.9953389 27.632398,15.5025025 27.6315789,14 C27.6315789,6.2692 21.4479602,0 13.8226939,0"></path>
-                                <path d="M11.7596465,17.836 L7.84068492,13.8628 L7.84068492,21.2744 L2.02162077,21.2744 C4.44646098,25.3064 8.82387753,28 13.8226939,28 C18.8215103,28 23.1989269,25.3064 25.6210053,21.2744 L19.8019411,21.2744 L19.8019411,13.8628 L15.8857413,17.836 L13.8226939,19.9276 L11.7596465,17.836 Z"></path>
+                                <path d="M11.7596465,17.836 L7.84068492,13.8628 L7.84068492,21.2744 L2.02162077,21.2744 C4.44646098,25.3064 8.82387753,28 13.8226939,28 C18.8215103,28 23.1989269,25.3064 25.6210053,21.2744 L19.8019411,21.2744 L19.8019411,13.8628 L15.8857413,17.836 L13.8226939,19.9276 L11.7596465,17.836 L11.7596465,17.836 Z"></path>
                             </g>
                         </g>
                     </g>
@@ -219,7 +221,7 @@
                 <path d="M6.18181818,17.1818182 L6.18181818,0.818181818 L1.63999999,0.818181818 C1.18612234,0.818181818 0.818181818,1.18612234 0.818181818,1.63999999 L0.818181818,16.36 C0.818181818,16.8138777 1.18612234,17.1818182 1.63999999,17.1818182 L6.18181818,17.1818182 Z" id="Rectangle-7" stroke-width="1.63636364" fill="#FFFFFF"></path>
             </g>
         </g>
-        <text id="Components" font-family="SFProDisplay-Regular, SF Pro Display" font-size="32" font-weight="normal" fill="#FFFFFF">
+        <text id="Components" font-family="Roboto-Regular, Roboto" font-size="32" font-weight="normal" fill="#FFFFFF">
             <tspan x="100" y="131">Components</tspan>
         </text>
         <g id="Network-status" transform="translate(460.000000, 290.000000)">
@@ -228,17 +230,17 @@
                 <g id="lightning" transform="translate(27.000000, 26.000000)" fill="#FA6800" fill-rule="nonzero">
                     <path d="M1.09102061,27 C1.0108412,27 0.930116358,26.98272 0.853755019,26.946 C0.606671541,26.8272 0.487220589,26.5464 0.573945253,26.28882 L4.69800303,14.04 L0.54558247,14.04 C0.363406131,14.04 0.193229431,13.94982 0.0917779375,13.7997 C-0.00967355656,13.64958 -0.0282184533,13.45896 0.0421430667,13.29264 L5.49652447,0.33264 C5.58106738,0.13122 5.77960686,0 5.99996387,0 L11.1816262,0 C11.3665297,0 11.5388882,0.09288 11.6392488,0.24624 C11.7401549,0.40014 11.7548817,0.59346 11.6796112,0.76032 L7.38701306,10.26 L11.4543453,10.26 C11.6545211,10.26 11.8388792,10.36908 11.9343308,10.54296 C12.0297825,10.71738 12.0205101,10.9296 11.910877,11.09538 L1.54755233,26.75538 C1.44337365,26.91306 1.26992432,27 1.09102061,27 Z" id="Shape"></path>
                 </g>
-                <text opacity="0.5" font-family="SFProDisplay-Medium, SF Pro Display" font-size="13" font-weight="400" fill="#FFFFFF">
+                <text opacity="0.5" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400" fill="#FFFFFF">
                     <tspan x="50" y="33">Network status</tspan>
                 </text>
-                <text id="Synchronizing" font-family="SFProDisplay-Medium, SF Pro Display" font-size="20" font-weight="400" fill="#FFFFFF">
+                <text id="Synchronizing" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#FFFFFF">
                     <tspan x="50" y="53">Synchronizing</tspan>
                 </text>
-                <text id="Blocks-remaining" font-family="SFProText-Regular, SF Pro Text" font-size="13" font-weight="normal" fill="#FFFFFF">
+                <text id="Blocks-remaining" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#FFFFFF">
                     <tspan x="20" y="82">Blocks remaining</tspan>
                 </text>
-                <text id="67,775" font-family="SFProText-Regular, SF Pro Text" font-size="13" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="239.05127" y="82">67,775</tspan>
+                <text id="67,775" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="240.955566" y="82">67,775</tspan>
                 </text>
                 <rect id="Rectangle-5" fill="#FFFFFF" opacity="0.200000003" x="20" y="92" width="260" height="8" rx="4"></rect>
                 <rect id="Rectangle-5" fill="#FA6800" x="20" y="92" width="171" height="8" rx="4"></rect>
@@ -246,20 +248,20 @@
         </g>
         <g id="Privacy-level-picker" transform="translate(460.000000, 450.000000)">
             <g transform="translate(0.000000, 1.000000)">
-                <text id="Privacy-level-Ringsi" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
+                <text id="Privacy-level-Ringsi" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
                     <tspan x="0" y="13">Privacy level     Ringsize 5</tspan>
                 </text>
-                <text id="Transaction-cost" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
+                <text id="Transaction-cost" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
                     <tspan x="497" y="13">Transaction cost</tspan>
                 </text>
-                <text id="Normal" font-family="SFProText-Regular, SF Pro Text" font-size="14" font-weight="normal" fill="#FA6800">
-                    <tspan x="183.717773" y="74">Normal</tspan>
+                <text id="Normal" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FA6800">
+                    <tspan x="184.507324" y="74">Normal</tspan>
                 </text>
-                <text id="High" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
-                    <tspan x="570.671875" y="75">High</tspan>
+                <text id="High" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="570.384766" y="75">High</tspan>
                 </text>
-                <text id="Low" font-family="SFProDisplay-Medium, SF Pro Display" font-size="14" font-weight="400" fill="#FFFFFF">
-                    <tspan x="0.363769531" y="75">Low</tspan>
+                <text id="Low" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="0.025390625" y="75">Low</tspan>
                 </text>
                 <rect id="Rectangle-4" fill="#FFFFFF" opacity="0.5" x="0" y="41" width="600" height="4" rx="2"></rect>
                 <rect id="Rectangle-4" fill="#FA6800" transform="translate(110.500000, 43.000000) scale(1, -1) translate(-110.500000, -43.000000) " x="0" y="41" width="221" height="4" rx="2"></rect>
@@ -285,5 +287,14 @@
         </g>
         <rect id="Orange" fill="#FA6800" x="100" y="799" width="100" height="100" rx="10"></rect>
         <rect id="Blue" fill="#30BCED" x="220" y="799" width="100" height="100" rx="10"></rect>
+        <g id="Toast" transform="translate(460.000000, 849.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-20"></use>
+                <rect stroke="#404040" stroke-width="1" stroke-linejoin="square" fill="#000000" fill-rule="evenodd" x="0.5" y="0.5" width="359" height="49" rx="5"></rect>
+            </g>
+            <text id="The-address-was-copi" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="30" y="31">The address was copied to your clipboard.</tspan>
+            </text>
+        </g>
     </g>
 </svg>

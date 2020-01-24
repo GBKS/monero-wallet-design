@@ -1,3 +1,7 @@
+This design now lives on Figma. [See here](https://www.figma.com/c/file/775423808468574409).
+
+Figma is cross-browser and adding collaboration features that suit the open-source nature of Monero well. It also includes export tools for developers, removing the need for other tools previously used. This repo is kept purely as an archive.
+
 # Monero GUI Wallet Design
 
 These are my working design files for the [Monero desktop wallet](https://github.com/monero-project/monero-gui). The design is mostly implemented as designed here, but this repository also includes a few future design explorations.
